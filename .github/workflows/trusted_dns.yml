@@ -24,6 +24,15 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v2.2.2
       
+      - name: Checkout dnsvalidator
+        run: git clone https://github.com/vortexau/dnsvalidator.git
+
+      - name: Install dnsvalidator
+        run: sudo python3 dnsvalidator/setup.py install
+      
+      - name: Run dnsvalidator
+        run: dnsvalidator -tL https://public-dns.info/nameservers.txt -threads 20 -o wordlists/trusted_resolvers.txt
+      
       - name: Create local changes
         run: git add wordlists/trusted_resolvers.json
       
