@@ -1,0 +1,37 @@
+name: generate_ghdb_wl
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+
+      - name: Setup Python
+        uses: actions/setup-python@v2.2.2
+
+      - name: Install scraper_ghdb
+        run: python3 -m pip install -r scripts/ghdb_scraper/requirements.txt
+
+      - name: Run scraper_ghdb
+        run: python3 scripts/ghdb_scraper/ghdb_scraper.py -o "wordlists/ghdb.json"
+
+      - name: Create local changes
+        run: git add output/ghdb.json
+
+      - name: Commit results to Github
+        run: |
+            git config --local user.email ""
+            git config --global user.name "ghdb"
+            git commit -m "Bot ghdb auto update" -a --allow-empty
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+           github_token: ${{ secrets.GITHUB_TOKEN }}
+           branch: ${{ github.ref }}

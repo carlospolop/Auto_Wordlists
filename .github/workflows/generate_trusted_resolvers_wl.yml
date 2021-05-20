@@ -25,10 +25,10 @@ jobs:
             cd --
 
       - name: Run dnsvalidator
-        run: dnsvalidator -tL https://public-dns.info/nameservers.txt -threads 20 -o output/trusted_resolvers.txt
+        run: dnsvalidator -tL https://public-dns.info/nameservers.txt -threads 20 -o wordlists/trusted_resolvers.txt
 
       - name: Create local changes
-        run: git add output/trusted_resolvers.txt
+        run: git add wordlists/trusted_resolvers.txt
 
       - name: Commit results to Github
         run: |
