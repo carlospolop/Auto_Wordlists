@@ -22,7 +22,7 @@ jobs:
         run: python3 scripts/ghdb_scraper/ghdb_scraper.py -o "wordlists/ghdb.json"
 
       - name: Create local changes
-        run: git add output/ghdb.json
+        run: git add wordlists/ghdb.json
 
       - name: Commit results to Github
         run: |
