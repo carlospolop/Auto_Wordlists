@@ -19,11 +19,14 @@ jobs:
         run: git clone https://github.com/vortexau/dnsvalidator.git
 
       - name: Install dnsvalidator
-        run: sudo python3 dnsvalidator/setup.py install
-      
+        run: |
+            cd dnsvalidator
+            sudo python3 setup.py install
+            cd --
+
       - name: Run dnsvalidator
         run: dnsvalidator -tL https://public-dns.info/nameservers.txt -threads 20 -o output/trusted_resolvers.txt
-      
+
       - name: Create local changes
         run: git add output/trusted_resolvers.txt
 
@@ -32,7 +35,7 @@ jobs:
             git config --local user.email ""
             git config --global user.name "trusted_resolvers"
             git commit -m "Bot trusted_resolvers auto update" -a --allow-empty
-      
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
