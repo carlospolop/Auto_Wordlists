@@ -6,8 +6,6 @@ name: trusted_resolvers
 on:
   schedule:
     - cron: '0 */6 * * *'
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -25,7 +23,7 @@ jobs:
       
       - name: Setup Python
         uses: actions/setup-python@v2.2.2
-
+      
       - name: Checkout dnsvalidator
         run: git clone https://github.com/vortexau/dnsvalidator.git
 
