@@ -50,7 +50,7 @@ lists:
       - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/Polyglots/XSS-Polyglots-Dmiessler.txt"
       - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/Polyglots/XSS-Polyglots.txt"
       - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/Polyglots/XSS-innerht-ml.txt"
-      - 
+      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS-Fuzzing"
   
   xss:
     urls:
@@ -71,6 +71,14 @@ lists:
   xss_portswigger:
     urls:
       - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS/XSS-Cheat-Sheet-PortSwigger.txt"
+
+  xxe:
+    urls:
+      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XXE-Fuzzing.txt"
+      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XML-FUZZ.txt"
+      - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/XXE%20Injection/Intruders/XXE_Fuzzing.txt"
+      - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/XXE%20Injection/Intruders/xml-attacks.txt"
+      - "https://github.com/1N3/IntruderPayloads/raw/master/FuzzLists/xml-attacks.txt"
 
   sqli:
     urls:
