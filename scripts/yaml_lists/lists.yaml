@@ -87,6 +87,7 @@ lists:
 
   bf_directories:
     urls:
-      - "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/RobotsDisallowed-Top1000.txt"
+      - "https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/RobotsDisallowed-Top1000.txt"
       - "https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/raft-large-directories.txt"
       - "https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/directory-list-2.3-medium.txt"
+      - "https://github.com/maurosoria/dirsearch/raw/master/db/dicc.txt"
