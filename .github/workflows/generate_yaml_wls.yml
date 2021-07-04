@@ -15,8 +15,8 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v2.2.2
 
-      - name: Install pyyaml
-        run: python3 -m pip install PyYAML
+      - name: Install dependencies
+        run: python3 -m pip install PyYAML requests
 
       - name: Run generate_yaml_lists
         run: python3 scripts/yaml_lists/generate_yaml_lists.py
