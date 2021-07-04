@@ -1,4 +1,4 @@
-name: generate_ghdb_wl
+name: generate_yaml_wls
 
 on:
   schedule:
