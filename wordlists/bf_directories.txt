@@ -157850,6 +157850,8 @@ flag-spanish
 flag-tr
 flag-uk
 flag-us
+flag.%EXT%
+flag.txt
 flag01
 flag02
 flag03
