@@ -145108,6 +145108,7 @@ descrintro
 descripcion
 descript
 description
+description.json
 descriptions
 descrizione
 descrizioni
@@ -236259,6 +236260,7 @@ stats-back
 stats-ns
 stats-old
 stats-online
+stats.json
 stats/
 stats1
 stats2
