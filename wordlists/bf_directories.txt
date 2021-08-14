@@ -174429,13 +174429,16 @@ index.java
 index.jsp
 index.old
 index.orig
+index.pHp
 index.php
 index.php-bak
+index.php.
 index.php.bak
 index.php/login/
 index.php3
 index.php4
 index.php5
+index.php::$DATA
 index.php~
 index.rar
 index.save
