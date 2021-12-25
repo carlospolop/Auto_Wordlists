@@ -113941,6 +113941,7 @@ actuator/events
 actuator/exportRegisteredServices
 actuator/features
 actuator/flyway
+actuator/gateway/routes
 actuator/health
 actuator/healthcheck
 actuator/heapdump
@@ -162219,6 +162220,7 @@ gatesvstux
 gateway
 gateway-mode
 gateway/
+gateway/routes
 gateway_logo
 gateways
 gather
