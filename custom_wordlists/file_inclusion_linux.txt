@@ -678,6 +678,17 @@
 /proc/self/cmdline
 /proc/self/stat
 /proc/self/status
+/proc/self/cwd/index.php
+/proc/self/cwd/main.py
+/proc/self/cwd/app.py
+/proc/self/cwd/app.js
+/proc/self/cwd/main.js
+/etc/motd
+/proc/net/udp
+/proc/net/arp
+/proc/self/environ
+/var/run/secrets/kubernetes.io/serviceaccount
+/proc/cmdline
 /proc/self/fd/3
 /proc/self/fd/4
 /proc/self/fd/5
