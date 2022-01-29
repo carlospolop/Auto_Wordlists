@@ -279,6 +279,8 @@
 /proc/net/fib_trie
 /proc/net/tcp
 /proc/net/udp
+/proc/net/arp
+/var/run/secrets/kubernetes.io/serviceaccount
 /proc/sched_debug
 /proc/self/mounts
 /root/.bash_config
@@ -684,10 +686,6 @@
 /proc/self/cwd/app.js
 /proc/self/cwd/main.js
 /etc/motd
-/proc/net/udp
-/proc/net/arp
-/proc/self/environ
-/var/run/secrets/kubernetes.io/serviceaccount
 /proc/cmdline
 /proc/self/fd/3
 /proc/self/fd/4
