@@ -1289,6 +1289,11 @@
 /proc/partitions
 /proc/sched_debug
 /proc/self/cmdline
+/proc/self/cwd/app.js
+/proc/self/cwd/app.py
+/proc/self/cwd/index.php
+/proc/self/cwd/main.js
+/proc/self/cwd/main.py
 /proc/self/environ
 /proc/self/environ%00
 /proc/self/fd/0
@@ -1997,6 +2002,7 @@
 /var/root/.sh_history
 /var/run/httpd.pid
 /var/run/mysqld/mysqld.pid
+/var/run/secrets/kubernetes.io/serviceaccount
 /var/run/utmp
 /var/saf/_log
 /var/saf/port/log
