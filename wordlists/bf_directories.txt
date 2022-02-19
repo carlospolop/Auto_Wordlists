@@ -118950,9 +118950,11 @@ app-ftp
 app-gpl
 app-scanners
 app-sources
+app.%EXT%
 app.config
 app.js
 app.php
+app.py
 app/
 app/.htaccess
 app/Config/core.php
