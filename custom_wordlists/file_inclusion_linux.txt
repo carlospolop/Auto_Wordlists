@@ -445,6 +445,7 @@
 /usr/share/tomcat6/logs/catalina.out
 /usr/share/tomcat/logs/catalina.err
 /usr/share/tomcat/logs/catalina.out
+/usr/share/pixmaps/debian-logo.png
 /usr/spool/lp/log
 /usr/spool/mqueue/syslog
 /var/adm/acct/sum/loginlog
