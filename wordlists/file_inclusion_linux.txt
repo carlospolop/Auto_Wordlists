@@ -1685,6 +1685,7 @@
 /usr/share/adduser/adduser.conf
 /usr/share/logs/catalina.err
 /usr/share/logs/catalina.out
+/usr/share/pixmaps/debian-logo.png
 /usr/share/squirrelmail/config/config.php
 /usr/share/squirrelmail/plugins/squirrel_logger/setup.php
 /usr/share/tomcat/logs/catalina.err
