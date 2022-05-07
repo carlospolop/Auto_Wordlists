@@ -264398,6 +264398,7 @@ wlp
 wlr
 wlreports
 wls
+wls-wsat/CoordinatorPortType
 wlt
 wlv
 wm
