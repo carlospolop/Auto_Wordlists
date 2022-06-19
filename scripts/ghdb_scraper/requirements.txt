@@ -1,4 +1,0 @@
-argparse
-validators
-requests
-bs4
