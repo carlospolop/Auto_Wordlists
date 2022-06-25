@@ -231636,6 +231636,10 @@ sitecontrols
 sitecopy
 sitecore
 sitecore modules
+sitecore/content/home
+sitecore/content/home.aspx
+sitecore/login
+sitecore/login/default.aspx
 sitecore_files
 sitecredits
 sitecrm
