@@ -134128,6 +134128,12 @@ cgi-bin/index.html
 cgi-bin/login
 cgi-bin/login.cgi
 cgi-bin/login.php
+cgi-bin/mt-xmlrpc.cgi
+cgi-bin/mt.cgi
+cgi-bin/mt/mt-xmlrpc.cgi
+cgi-bin/mt/mt.cgi
+cgi-bin/mt7/mt-xmlrpc.cgi
+cgi-bin/mt7/mt.cgi
 cgi-bin/php.ini
 cgi-bin/printenv.pl
 cgi-bin/test-cgi
@@ -197374,6 +197380,10 @@ mt-tb
 mt-templates
 mt-test
 mt-tmpl
+mt-xmlrpc.cgi
+mt.cgi
+mt/mt-xmlrpc.cgi
+mt/mt.cgi
 mt1
 mt2
 mt3
@@ -197381,6 +197391,8 @@ mt32
 mt4
 mt4-static
 mt5
+mt7/mt-xmlrpc.cgi
+mt7/mt.cgi
 mtTopLogo
 mt_blog
 mt_business
@@ -217584,6 +217596,7 @@ proxy-list
 proxy-live
 proxy-shop
 proxy-switcher
+proxy.ini
 proxy.pac
 proxy.stream?origin=http
 proxy.stream?origin=https://google.com
