@@ -114718,7 +114718,6 @@ admin/
 admin/%3bindex/
 admin/.config
 admin/.htaccess
-admin/?/login
 admin/FCKeditor
 admin/PMA/index.php
 admin/_logs/access-log
