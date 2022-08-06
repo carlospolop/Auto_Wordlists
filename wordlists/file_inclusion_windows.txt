@@ -445,10 +445,108 @@ c:/$sysreset/logs/setupact.log
 c:/$sysreset/logs/setuperr.log
 c:/$sysreset/logs/timestamp.xml
 c:/$sysreset/resetsession.xml
+c:/MySQL/data/mysql-bin.index
+c:/MySQL/data/mysql-bin.log
+c:/MySQL/data/mysql.err
+c:/MySQL/data/mysql.log
+c:/MySQL/data/{IPDELHOST}.err
+c:/MySQL/my.cnf
+c:/MySQL/my.ini
 c:/NetServer/bin/stable/apache/php.ini
 c:/PHP/php.ini
+c:/PostgreSQL/log/pgadmin.log
+c:/Program Files/Apache Group/Apache/apache.conf
+c:/Program Files/Apache Group/Apache/apache2.conf
+c:/Program Files/Apache Group/Apache/conf/apache.conf
+c:/Program Files/Apache Group/Apache/conf/apache2.conf
+c:/Program Files/Apache Group/Apache/conf/httpd.conf
+c:/Program Files/Apache Group/Apache/logs/access.log
+c:/Program Files/Apache Group/Apache/logs/error.log
+c:/Program Files/Apache Group/Apache2/conf/apache.conf
+c:/Program Files/Apache Group/Apache2/conf/apache2.conf
+c:/Program Files/Apache Group/Apache2/conf/httpd.conf
+c:/Program Files/Apache Software Foundation/Apache2.2/conf/httpd.conf
+c:/Program Files/Apache Software Foundation/Apache2.2/logs/access.log
+c:/Program Files/Apache Software Foundation/Apache2.2/logs/error.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.index
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql.err
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/{IPDELHOST}.err
+c:/Program Files/MySQL/MySQL Server 5.0/my.cnf
+c:/Program Files/MySQL/MySQL Server 5.0/my.ini
+c:/Program Files/MySQL/data/mysql-bin.index
+c:/Program Files/MySQL/data/mysql-bin.log
+c:/Program Files/MySQL/data/mysql.err
+c:/Program Files/MySQL/data/mysql.log
+c:/Program Files/MySQL/data/{IPDELHOST}.err
+c:/Program Files/MySQL/my.cnf
+c:/Program Files/MySQL/my.ini
+c:/Program Files/PostgreSQL/8.3/data/pg_hba.conf
+c:/Program Files/PostgreSQL/8.3/data/pg_ident.conf
+c:/Program Files/PostgreSQL/8.3/data/postgresql.conf
+c:/Program Files/PostgreSQL/8.4/data/pg_hba.conf
+c:/Program Files/PostgreSQL/8.4/data/pg_ident.conf
+c:/Program Files/PostgreSQL/8.4/data/postgresql.conf
+c:/Program Files/PostgreSQL/9.0/data/pg_hba.conf
+c:/Program Files/PostgreSQL/9.0/data/pg_ident.conf
+c:/Program Files/PostgreSQL/9.0/data/postgresql.conf
+c:/Program Files/PostgreSQL/9.1/data/pg_hba.conf
+c:/Program Files/PostgreSQL/9.1/data/pg_ident.conf
+c:/Program Files/PostgreSQL/9.1/data/postgresql.conf
+c:/Program Files/Vidalia Bundle/Polipo/polipo.conf
+c:/Program Files/xampp/apache/conf/apache.conf
+c:/Program Files/xampp/apache/conf/apache2.conf
+c:/Program Files/xampp/apache/conf/httpd.conf
+c:/WINDOWS/Debug/NetSetup.LOG
+c:/WINDOWS/ODBC.INI
+c:/WINDOWS/WindowsUpdate.log
+c:/WINDOWS/comsetup.log
 c:/WINDOWS/php.ini
+c:/WINDOWS/repair/setup.log
+c:/WINDOWS/setupact.log
+c:/WINDOWS/setupapi.log
+c:/WINDOWS/setuperr.log
+c:/WINDOWS/system32/Macromed/Flash/FlashInstall.log
+c:/WINDOWS/system32/Macromed/Flash/install.log
+c:/WINDOWS/system32/drivers/etc/hosts
+c:/WINDOWS/system32/drivers/etc/lmhosts.sam
+c:/WINDOWS/system32/drivers/etc/networks
+c:/WINDOWS/system32/drivers/etc/protocol
+c:/WINDOWS/system32/drivers/etc/services
+c:/WINDOWS/system32/logfiles/Firewall/pfirewall.log
+c:/WINDOWS/system32/logfiles/Firewall/pfirewall.log.old
+c:/WINDOWS/system32/logfiles/MSFTPSVC
+c:/WINDOWS/system32/logfiles/MSFTPSVC1
+c:/WINDOWS/system32/logfiles/MSFTPSVC2
+c:/WINDOWS/system32/logfiles/SMTPSVC
+c:/WINDOWS/system32/logfiles/SMTPSVC1
+c:/WINDOWS/system32/logfiles/SMTPSVC2
+c:/WINDOWS/system32/logfiles/SMTPSVC3
+c:/WINDOWS/system32/logfiles/SMTPSVC4
+c:/WINDOWS/system32/logfiles/SMTPSVC5
+c:/WINDOWS/system32/logfiles/W3SVC/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC1/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC2/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC3/inetsvn1.log
+c:/WINDOWS/updspapi.log
+c:/WINDOWS/wmsetup.log
 c:/WINNT/php.ini
+c:/WINNT/system32/logfiles/Firewall/pfirewall.log
+c:/WINNT/system32/logfiles/Firewall/pfirewall.log.old
+c:/WINNT/system32/logfiles/MSFTPSVC
+c:/WINNT/system32/logfiles/MSFTPSVC1
+c:/WINNT/system32/logfiles/MSFTPSVC2
+c:/WINNT/system32/logfiles/SMTPSVC
+c:/WINNT/system32/logfiles/SMTPSVC1
+c:/WINNT/system32/logfiles/SMTPSVC2
+c:/WINNT/system32/logfiles/SMTPSVC3
+c:/WINNT/system32/logfiles/SMTPSVC4
+c:/WINNT/system32/logfiles/SMTPSVC5
+c:/WINNT/system32/logfiles/W3SVC/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC1/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC2/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC3/inetsvn1.log
 c:/all.txt
 c:/apache/log/access.log
 c:/apache/log/access_log
@@ -471,7 +569,13 @@ c:/boot.ini
 c:/documents and settings/administrator/desktop/desktop.ini
 c:/documents and settings/administrator/ntuser.dat
 c:/documents and settings/administrator/ntuser.ini
+c:/etc/postgresql/pg_hba.conf
+c:/etc/postgresql/postgresql.conf
 c:/home/bin/stable/apache/php.ini
+c:/home/postgres/data/PG_VERSION
+c:/home/postgres/data/pg_hba.conf
+c:/home/postgres/data/pg_ident.conf
+c:/home/postgres/data/postgresql.conf
 c:/home2/bin/stable/apache/php.ini
 c:/inetpub/logs/logfiles
 c:/inetpub/wwwroot/app_start/bundleconfig.cs
@@ -4300,6 +4404,37 @@ c:/users/all users/windows app certification kit/zh-cn/wslk_strings.xml
 c:/users/all users/windows app certification kit/zh-tw/wslk_strings.xml
 c:/users/default/appdata/local/microsoft/windows sidebar/settings.ini
 c:/users/default/appdata/local/microsoft/windows/shell/defaultlayouts.xml
+c:/usr/internet/pgsql/data/pg_hba.conf
+c:/usr/local/pgsql/bin/pg_passwd
+c:/usr/local/pgsql/data/passwd
+c:/usr/local/pgsql/data/pg_hba.conf
+c:/usr/local/pgsql/data/postgresql.conf
+c:/var/lib/pgsql/data/postgresql.conf
+c:/var/log/lighttpd/{DOMAIN}/access.log
+c:/var/nm2/postgresql.conf
+c:/var/postgresql/db/postgresql.conf
+c:/wamp/bin/apache/apache2.2.21/conf/httpd.conf
+c:/wamp/bin/apache/apache2.2.21/logs/access.log
+c:/wamp/bin/apache/apache2.2.21/logs/error.log
+c:/wamp/bin/apache/apache2.2.21/wampserver.conf
+c:/wamp/bin/apache/apache2.2.22/conf/httpd.conf
+c:/wamp/bin/apache/apache2.2.22/conf/wampserver.conf
+c:/wamp/bin/apache/apache2.2.22/logs/access.log
+c:/wamp/bin/apache/apache2.2.22/logs/error.log
+c:/wamp/bin/apache/apache2.2.22/wampserver.conf
+c:/wamp/bin/mysql/mysql5.5.16/data/mysql-bin.index
+c:/wamp/bin/mysql/mysql5.5.16/my.ini
+c:/wamp/bin/mysql/mysql5.5.16/wampserver.conf
+c:/wamp/bin/mysql/mysql5.5.24/data/mysql-bin.index
+c:/wamp/bin/mysql/mysql5.5.24/my.ini
+c:/wamp/bin/mysql/mysql5.5.24/wampserver.conf
+c:/wamp/bin/php/php5.3.8/php.ini
+c:/wamp/bin/php/php5.4.3/php.ini
+c:/wamp/logs/access.log
+c:/wamp/logs/apache_error.log
+c:/wamp/logs/genquery.log
+c:/wamp/logs/mysql.log
+c:/wamp/logs/slowquery.log
 c:/windows/assembly/gac/stdole/7.0.3300.0__b03f5f7f11d50a3a/__assemblyinfo__.ini
 c:/windows/assembly/gac_32/msbuild/3.5.0.0__b03f5f7f11d50a3a/msbuild.exe.config
 c:/windows/assembly/gac_32/presentationcore/3.0.0.0__31bf3856ad364e35/presentationfontcache.exe.config
@@ -5321,6 +5456,8 @@ c:/windows/win.ini
 c:/windows/windowsupdate.log
 c:/winnt/php.ini
 c:/winnt/win.ini
+c:/xampp/FileZillaFTP/FileZilla Server.xml
+c:/xampp/MercuryMail/mercury.ini
 c:/xampp/apache/bin/php.ini
 c:/xampp/apache/conf/httpd.conf
 c:/xampp/apache/logs/access.log
@@ -5329,11 +5466,17 @@ c:/xampp/filezillaftp/filezilla server.xml
 c:/xampp/filezillaftp/logs
 c:/xampp/filezillaftp/logs/access.log
 c:/xampp/filezillaftp/logs/error.log
+c:/xampp/htdocs/aca.txt
+c:/xampp/htdocs/admin.php
+c:/xampp/htdocs/leer.txt
 c:/xampp/mercurymail/logs/access.log
 c:/xampp/mercurymail/logs/error.log
 c:/xampp/mercurymail/mercury.ini
+c:/xampp/mysql/data/mysql-bin.index
 c:/xampp/mysql/data/mysql.err
+c:/xampp/mysql/data/{IPDELHOST}.err
 c:/xampp/php/php.ini
+c:/xampp/phpMyAdmin/config.inc.php
 c:/xampp/phpmyadmin/config.inc
 c:/xampp/phpmyadmin/config.inc.php
 c:/xampp/phpmyadmin/phpinfo.php

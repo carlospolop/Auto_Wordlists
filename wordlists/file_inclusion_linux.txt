@@ -630,6 +630,7 @@
 /NetServer\bin\stable\apache\php.ini%00
 /PHP\php.ini
 /PHP\php.ini%00
+/PostgreSQL/log/pgadmin.log
 /Program Files\Apache Group\Apache2\conf\httpd.conf
 /Program Files\Apache Group\Apache2\conf\httpd.conf%00
 /Program Files\Apache Group\Apache\conf\httpd.conf
@@ -640,6 +641,7 @@
 /Program Files\Apache Group\Apache\logs\error.log%00
 /Program Files\xampp\apache\conf\httpd.conf
 /Program Files\xampp\apache\conf\httpd.conf%00
+/System/Library/WebObjects/Adaptors/Apache2.2/apache.conf
 /Volumes/Macintosh_HD1/opt/apache/conf/httpd.conf
 /Volumes/Macintosh_HD1/opt/apache/conf/httpd.conf%00
 /Volumes/Macintosh_HD1/opt/apache2/conf/httpd.conf
@@ -718,6 +720,9 @@
 /etc/apache2.conf
 /etc/apache2/apache.conf
 /etc/apache2/apache2.conf
+/etc/apache2/conf.d/charset
+/etc/apache2/conf.d/phpmyadmin.conf
+/etc/apache2/conf.d/security
 /etc/apache2/conf/httpd.conf
 /etc/apache2/conf/httpd.conf%00
 /etc/apache2/default-server.conf
@@ -750,6 +755,7 @@
 /etc/apache2/sites-enabled/default-ssl.conf
 /etc/apache2/sites-enabled/default.conf
 /etc/apache2/ssl-global.conf
+/etc/apache2/vhosts.d/00_default_vhost.conf
 /etc/apache2/vhosts.d/default_vhost.include
 /etc/apache22/conf/httpd.conf
 /etc/apache22/httpd.conf
@@ -759,6 +765,7 @@
 /etc/at.deny
 /etc/avahi/avahi-daemon.conf
 /etc/bash.bashrc
+/etc/bash_completion.d/debconf
 /etc/bashrc
 /etc/bluetooth/input.conf
 /etc/bluetooth/main.conf
@@ -963,8 +970,12 @@
 /etc/miredo.conf
 /etc/miredo/miredo-server.conf
 /etc/miredo/miredo.conf
+/etc/modprobe.d/vmware-tools.conf
 /etc/modules
 /etc/modules.conf
+/etc/mono/1.0/machine.config
+/etc/mono/2.0/machine.config
+/etc/mono/2.0/web.config
 /etc/mono/config
 /etc/motd
 /etc/mtab
@@ -978,11 +989,13 @@
 /etc/my.cnf
 /etc/my.cnf%00
 /etc/my.conf
+/etc/mysql/conf.d/old_passwords.cnf
 /etc/mysql/my.cnf
 /etc/mysql/my.cnf%00
 /etc/netconfig
 /etc/network/interfaces
 /etc/networks
+/etc/newsyslog.conf
 /etc/nginx.conf
 /etc/nginx/nginx.conf
 /etc/nginx/sites-available/default
@@ -1074,9 +1087,11 @@
 /etc/pureftpd.pdb
 /etc/pureftpd.pdb%00
 /etc/rc.conf
+/etc/rc.d/rc.httpd
 /etc/redhat-release
 /etc/release
 /etc/resolv.conf
+/etc/resolvconf/update-libc.d/sendmail
 /etc/rpc
 /etc/samba/dhcp.conf
 /etc/samba/netlogon
@@ -1134,10 +1149,17 @@
 /etc/ssh/sshd_config
 /etc/sso/sso_config.ini
 /etc/stunnel/stunnel.conf
+/etc/subversion/config
 /etc/sudoers
+/etc/sw-cp-server/applications.d/00-sso-cpserver.conf
+/etc/sw-cp-server/applications.d/plesk.conf
 /etc/sysconfig/network
 /etc/sysconfig/network-scripts/ifcfg-eth0
 /etc/sysctl.conf
+/etc/sysctl.d/10-console-messages.conf
+/etc/sysctl.d/10-network-security.conf
+/etc/sysctl.d/10-process-security.conf
+/etc/sysctl.d/wine.sysctl.conf
 /etc/syslog.conf
 /etc/syslogd.conf
 /etc/system
@@ -1187,6 +1209,7 @@
 /home2\bin\stable\apache\php.ini%00
 /home\bin\stable\apache\php.ini
 /home\bin\stable\apache\php.ini%00
+/http/httpd.conf
 /log/miscDir/accesslog
 /logs/access.log
 /logs/access.log%00
@@ -1240,6 +1263,7 @@
 /opt/lsws/conf/httpd_conf.xml
 /opt/lsws/logs/access.log
 /opt/lsws/logs/error.log
+/opt/tomcat/conf/tomcat-users.xml
 /opt/tomcat/logs/catalina.err
 /opt/tomcat/logs/catalina.out
 /opt/xampp/etc/php.ini
@@ -1252,8 +1276,11 @@
 /opt/xampp/logs/error.log%00
 /opt/xampp/logs/error_log
 /opt/xampp/logs/error_log%00
+/php/php.ini
+/php4/php.ini
 /php4\php.ini
 /php4\php.ini%00
+/php5/php.ini
 /php5\php.ini
 /php5\php.ini%00
 /php\php.ini
@@ -1501,6 +1528,7 @@
 /usr/local/apache/logs/lighttpd.error.log
 /usr/local/apache/logs/lighttpd.log
 /usr/local/apache/logs/mod_jk.log
+/usr/local/apache1.3/conf/httpd.conf
 /usr/local/apache2/apache.conf
 /usr/local/apache2/apache2.conf
 /usr/local/apache2/conf/apache.conf
@@ -1657,6 +1685,7 @@
 /usr/local/samba/lib/log.user
 /usr/local/samba/lib/smb.conf.user
 /usr/local/sb/config
+/usr/local/squirrelmail/www/README
 /usr/local/www/logs/httpd_log
 /usr/local/www/logs/thttpd_log
 /usr/local/zeus/web/global.cfg
@@ -2026,6 +2055,7 @@
 /var/www/conf/httpd.conf%00
 /var/www/config.php
 /var/www/html/.htaccess
+/var/www/html/squirrelmail-1.2.9/config/config.php
 /var/www/html/squirrelmail/config/config.php
 /var/www/html/wordpress/wp-config.php
 /var/www/html/wp-config.php
