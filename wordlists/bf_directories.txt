@@ -559,6 +559,7 @@ $searchForm
 .chef/config.rb
 .chef/knife.rb
 .circleci/
+.circleci/.firebase.secrets.json
 .circleci/circle.yml
 .circleci/config.yml
 .clang-format
@@ -98489,6 +98490,7 @@ OANDAS2_E01-06
 OASIS
 OASIS - Live by the Sea 1995
 OA_HTML
+OA_HTML/OA.jsp
 OB-6000_v1
 OBEX
 OBIT_BROWN
@@ -118854,6 +118856,7 @@ api/v1/
 api/v1/swagger.json
 api/v1/swagger.yaml
 api/v2
+api/v2/
 api/v2/helpdesk/discover
 api/v2/swagger.json
 api/v2/swagger.yaml
@@ -118973,7 +118976,6 @@ app/config/adminConf.json
 app/config/database.yml
 app/config/database.yml.pgsql
 app/config/database.yml.sqlite3
-app/config/database.yml_original
 app/config/database.yml~
 app/config/databases.yml
 app/config/global.json
@@ -122523,8 +122525,11 @@ axioms
 axion
 axis
 axis-cgi
+axis//happyaxis.jsp
 axis1/axis1-admin/
 axis2
+axis2-web//HappyAxis.jsp
+axis2//axis2-web/HappyAxis.jsp
 axis2/axis2-admin/
 axl
 axp
@@ -134139,6 +134144,7 @@ cgi-bin/mt/mt.cgi
 cgi-bin/mt7/mt-xmlrpc.cgi
 cgi-bin/mt7/mt.cgi
 cgi-bin/php.ini
+cgi-bin/printenv
 cgi-bin/printenv.pl
 cgi-bin/test-cgi
 cgi-bin/test.cgi
@@ -136347,6 +136353,8 @@ client-login
 client-management
 client-portal
 client-side
+client.%EXT%
+client.ovpn
 client1
 client2
 clientAdmin
@@ -136415,6 +136423,7 @@ clientportal
 clientpro
 clients
 clients-only
+clients.%EXT%
 clients.mdb
 clients.sql
 clients.sqlite
@@ -138876,7 +138885,6 @@ config/config.ini
 config/database.yml
 config/database.yml.pgsql
 config/database.yml.sqlite3
-config/database.yml_original
 config/database.yml~
 config/databases.yml
 config/db.inc
@@ -143648,7 +143656,6 @@ database.txt
 database.yml
 database.yml.pgsql
 database.yml.sqlite3
-database.yml_original
 database.yml~
 database/
 database/database/
@@ -144995,6 +145002,7 @@ demo.%EXT%
 demo.php
 demo/
 demo/ejb/index.html
+demo/ojspext/events/globals.jsa
 demo/sql/index.jsp
 demo07
 demo07_partners
@@ -147395,6 +147403,8 @@ dmoz
 dmp
 dmr
 dms
+dms/AggreSpy
+dms/DMSDump
 dmsimgs
 dmt
 dmusic
@@ -147598,9 +147608,7 @@ docnomic
 docomo
 docperl
 docpicker/common_proxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://example.com
-docpicker/internal_proxy/http/127.0.0.1:9100/aa
 docpicker/internal_proxy/https/127.0.0.1:9043/ibm/console
-docpicker/internal_proxy/https/example.com
 docprint
 docrepository
 docroot
@@ -156024,6 +156032,8 @@ fcg
 fcgi
 fcgi-bin
 fcgi-bin/
+fcgi-bin/echo
+fcgi-bin/echo.exe
 fcgp
 fcharts
 fcheck
@@ -164042,6 +164052,7 @@ globalnetwork
 globalpositioningsystemsgps
 globals
 globals.inc
+globals.jsa
 globalsearch
 globalsecurity
 globalservices
@@ -166860,7 +166871,9 @@ handleiding
 handleidingen
 handlekurv
 handler
+handler.%EXT%
 handlers
+handlers.%EXT%
 handlers/
 handles
 handlespam
@@ -177590,6 +177603,7 @@ internacional
 internacionales
 internal
 internal-links
+internal.%EXT%
 internal/docs
 internalAdvertRedirect
 internal_affairs
@@ -179890,6 +179904,7 @@ jbossws/services
 jbox_images
 jbp
 jbpm
+jbpm-console/app/tasks.jsf
 jbrofuzz-0
 jbs
 jbt
@@ -179950,6 +179965,7 @@ jdfalk
 jdiff
 jdj_award
 jdk
+jdkstatus
 jdlarios
 jdn
 jdo
@@ -180308,6 +180324,7 @@ jk/
 jk35
 jkeane
 jkelly
+jkmanager
 jkoch_usergroups
 jkondo
 jkstatus
@@ -183133,6 +183150,7 @@ krasota
 kravet
 krazydad
 krb-faq
+krb.log
 krcert
 krcert_banner
 krckwczt
@@ -193428,6 +193446,7 @@ mgl18nPlugin
 mglyph
 mgm
 mgmt
+mgmt.%EXT%
 mgmt/tm/sys/management
 mgmtsection
 mgnew
@@ -197924,6 +197943,7 @@ mwc
 mwcalc
 mwcss
 mweather
+mweb
 mwebmonitor
 mwend6_20021206
 mwf
@@ -206230,7 +206250,7 @@ operational-risk
 operations
 operationwhitehorse
 operator
-operator/
+operator.%EXT%
 operator_logos
 operator_products
 operatore
@@ -206392,6 +206412,7 @@ optional
 optioncart
 options
 options-site
+options.%EXT%
 options1
 options2
 options[]
@@ -206541,7 +206562,6 @@ order-valium
 order-viagra
 order-xanax
 order.%EXT%
-order.htm
 order.log
 order.txt
 order1
@@ -206624,6 +206644,7 @@ orderprocess
 orderprocessing
 orderprospectus
 orders
+orders.%EXT%
 orders.csv
 orders.log
 orders.sql
@@ -208950,7 +208971,6 @@ panel-administracion/login.html
 panel-administracion/login.php
 panel-klienta
 panel.%EXT%
-panel.php
 panel/
 panel1
 panel2
@@ -216516,6 +216536,7 @@ procura
 procurator
 procurement
 prod
+prod-api/druid/index.html
 prod-cats
 prod-news
 prod01
@@ -217602,7 +217623,6 @@ proxy-shop
 proxy-switcher
 proxy.ini
 proxy.pac
-proxy.stream?origin=http
 proxy.stream?origin=https://google.com
 proxy/
 proxy_checker
@@ -219962,6 +219982,7 @@ raikkonen
 rail
 rail-logo
 railo-context
+railo-context/admin/web.cfm
 railroad
 railroads
 rails
@@ -229237,11 +229258,13 @@ server-status
 server-status/
 server-updates
 server-wide
+server.%EXT%
 server.cert
 server.cfg
 server.js
 server.key
 server.log
+server.ovpn
 server.pid
 server.xml
 server/config.json
@@ -230776,6 +230799,7 @@ shuping
 shure
 shuriken
 shutdown
+shutdown.%EXT%
 shutter-reloaded
 shutterfly_logo
 shuttle
@@ -236102,6 +236126,7 @@ staff
 staff-area
 staff-en
 staff-login
+staff.%EXT%
 staff/
 staff1
 staff2
@@ -236157,6 +236182,7 @@ stager
 stagertrudis
 stages
 staging
+staging.%EXT%
 staging15
 staging2
 stagingmedia
@@ -236598,6 +236624,7 @@ stats-back
 stats-ns
 stats-old
 stats-online
+stats.%EXT%
 stats.json
 stats/
 stats1
@@ -237748,6 +237775,7 @@ styly
 stypes
 styrelse
 styx
+stzx_admin/index.html
 su
 su-bg
 su-discussion
@@ -262017,6 +262045,7 @@ webans
 webapi
 webapp
 webapp-security
+webapp/wm/runtime.jsp
 webapp_data
 webapp_template
 webappdis
@@ -262324,7 +262353,6 @@ webloyalty
 webmag
 webmagick
 webmail
-webmail/
 webmail/src/configtest.php
 webmail2
 webmail_pic
@@ -264941,7 +264969,6 @@ wp-a
 wp-admin
 wp-admin/
 wp-admin/admin-ajax.php
-wp-admin/c99.php
 wp-admin/install.php
 wp-admin/setup-config.php
 wp-adminlogs
@@ -264963,7 +264990,6 @@ wp-config.inc
 wp-config.old
 wp-config.php
 wp-config.php-bak
-wp-config.php-original
 wp-config.php.0
 wp-config.php.1
 wp-config.php.2
@@ -264974,8 +265000,6 @@ wp-config.php.6
 wp-config.php.7
 wp-config.php.8
 wp-config.php.9
-wp-config.php.a
-wp-config.php.b
 wp-config.php.backup
 wp-config.php.bak
 wp-config.php.bak1
@@ -264999,9 +265023,6 @@ wp-config.php_1
 wp-config.php_Old
 wp-config.php_bak
 wp-config.php_new
-wp-config.php_orig
-wp-config.php_original
-wp-config.phporiginal
 wp-config.php~
 wp-content
 wp-content-cache
