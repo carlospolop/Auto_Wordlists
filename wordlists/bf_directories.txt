@@ -236626,6 +236626,7 @@ stats-old
 stats-online
 stats.%EXT%
 stats.json
+stats.php
 stats/
 stats1
 stats2
