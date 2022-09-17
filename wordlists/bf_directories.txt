@@ -206027,6 +206027,7 @@ openafs
 openal
 openallhours
 openap
+openapi.json
 openarc
 openas
 openb
