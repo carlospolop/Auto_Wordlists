@@ -94,6 +94,10 @@ lists:
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/SQL%20Injection/Intruder/SQL-Injection"
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/SQL%20Injection/Intruder/FUZZDB_MSSQL-WHERE_Time.txt"
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/SQL%20Injection/Intruder/FUZZDB_MySQL-WHERE_Time.txt"
+      - "https://raw.githubusercontent.com/payloadbox/sql-injection-payload-list/master/Intruder/detect/Generic_ErrorBased.txt"
+      - "https://raw.githubusercontent.com/payloadbox/sql-injection-payload-list/master/Intruder/detect/Generic_TimeBased.txt"
+      - "https://raw.githubusercontent.com/payloadbox/sql-injection-payload-list/master/Intruder/detect/Generic_SQLI.txt"
+      - "https://raw.githubusercontent.com/payloadbox/sql-injection-payload-list/master/Intruder/detect/GenericBlind.txt"
 
   bf_directories:
     urls:
