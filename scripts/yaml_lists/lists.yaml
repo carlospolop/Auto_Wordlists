@@ -39,6 +39,7 @@ lists:
     urls:
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/Server%20Side%20Template%20Injection/Intruder/ssti.fuzz"
       - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/template-engines-expression.txt"
+      - "https://raw.githubusercontent.com/payloadbox/ssti-payloads/master/Intruder/ssti-payloads.txt"
 
   xslt:
     urls: []
@@ -67,6 +68,7 @@ lists:
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/XSS%20Injection/Intruders/IntrudersXSS.txt"
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/XSS%20Injection/Intruders/xss_alert.txt"
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/XSS%20Injection/Intruders/xss_payloads_quick.txt"
+      - "https://raw.githubusercontent.com/payloadbox/xss-payload-list/master/Intruder/xss-payload-list.txt"
   
   xss_portswigger:
     urls:
