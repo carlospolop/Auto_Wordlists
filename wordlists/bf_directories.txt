@@ -157428,6 +157428,7 @@ filemaker
 fileman
 filemanage
 filemanager
+filemanager.php
 filemanager/
 filemanager/upload.php
 filemanager/views/js/ZeroClipboard.swf
@@ -257399,6 +257400,7 @@ userevent
 userfeedback
 userfile
 userfiles
+userfiles/
 userforms
 userfoto
 userfriendly
