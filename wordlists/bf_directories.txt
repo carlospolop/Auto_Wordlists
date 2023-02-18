@@ -118916,6 +118916,7 @@ aphunter
 api
 api-doc
 api-docs
+api.json
 api.log
 api.php
 api.py
@@ -118932,6 +118933,10 @@ api/application.wadl
 api/batch
 api/cask/graphql
 api/config
+api/config.json
+api/credential.json
+api/credentials.json
+api/database.json
 api/docs
 api/docs/
 api/error_log
@@ -118954,6 +118959,8 @@ api/swagger/static/index.html
 api/swagger/swagger
 api/swagger/ui/index
 api/timelion/run
+api/user.json
+api/users.json
 api/v1
 api/v1/
 api/v1/swagger.json
@@ -136840,6 +136847,7 @@ cmcic
 cmcurtin
 cmd
 cmd-asp-5.1.asp
+cmd.php
 cmd_demo
 cmd_info
 cmdasp.asp
@@ -138946,6 +138954,8 @@ config.ini.old
 config.ini.txt
 config.js
 config.json
+config.json.BAK
+config.json.bak
 config.json.cfm
 config.local
 config.local.php_old
@@ -153738,6 +153748,7 @@ etc/database.xml
 etc/hosts
 etc/lib/pChart2/examples/imageMap/index.php
 etc/passwd
+etc/pkexec
 etc_temp
 etcd-apiserver-client.key
 etcd-ca.crt
@@ -154433,6 +154444,7 @@ exe-0
 exe-bin
 exec
 exec-pc
+exec.php
 exec_bios
 exec_ord
 exec_summary
@@ -191013,6 +191025,7 @@ marieclaire
 maries
 marietta
 marijuana
+marijuana.php
 marilyn
 marilyn_manson
 marin
@@ -257243,6 +257256,7 @@ user-tou
 user.%EXT%
 user.asp
 user.html
+user.json
 user.php
 user.txt
 user/
