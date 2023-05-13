@@ -576,6 +576,8 @@ c:/home/postgres/data/PG_VERSION
 c:/home/postgres/data/pg_hba.conf
 c:/home/postgres/data/pg_ident.conf
 c:/home/postgres/data/postgresql.conf
+c:/home/site/wwwroot/appsettings.json
+c:/home/site/wwwroot/web.config
 c:/home2/bin/stable/apache/php.ini
 c:/inetpub/logs/logfiles
 c:/inetpub/wwwroot/app_start/bundleconfig.cs
