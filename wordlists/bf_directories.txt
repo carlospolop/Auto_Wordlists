@@ -181550,6 +181550,8 @@ jwhois
 jwid
 jwirc
 jwk
+jwks.json
+jwks.jwt
 jwl
 jwplayer
 jwrh
