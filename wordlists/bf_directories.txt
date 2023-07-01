@@ -138993,6 +138993,7 @@ config.php.swp
 config.php.txt
 config.php.zip
 config.php~
+config.properties
 config.rb
 config.ru
 config.source
