@@ -138335,6 +138335,7 @@ configurator
 configurazione
 configure
 configure-authbounce
+configure.php
 configure.php.bak
 configure.scan
 configuring
