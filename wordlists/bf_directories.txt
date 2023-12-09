@@ -77771,8 +77771,8 @@ $searchForm
 ;admin/
 ;json/
 ;login/
-<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Nu1GLAG3_WkCZmyOSaA7UMyFss2EmJVjLn4CI6UPj3wn-2NdA6umOdnNRyjvNMiUUnAaWL7BFsAgThim2so8Vg" />  <label for="login_field">
-<!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ky6NbSimOZoZEG_20jIB-QVtNBVrBaHmDag7FSoxMa6wHRv3_k77TKFX5B7vA_lyBkZPJ0AfxYwi1Vzptj18Ag" />
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6PWDWl7WlLgu0sf7DuuCHwfcT0_tVG3vzpniLq0xlVZUnj9lGGNuOUm8FGg19fN8gJcGGIZWRmeRF5PD1ju2NA" />  <label for="login_field">
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ktTV1zzkR2qsUqB231Onn3bP50KPbm3trm5iRuwCovO31UnW23qxnbW13A9tjTsYhuXv6kXgPFz7CYLmhF1urg" />
 <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="query-builder-test-form" action="" accept-charset="UTF-8" method="get">
 <!-- '"` --><!-- </textarea></xmp> --></option></form><form role="search" data-turbo="false" action="/search" accept-charset="UTF-8" method="get">
 <!DOCTYPE html>
@@ -77782,7 +77782,7 @@ $searchForm
 </auto-check>
 </body>
 </button>
-</button><tool-tip id="tooltip-3dd1f05e-9113-4336-9527-50c7e581e054" for="icon-button-29eb504c-8c73-44ca-9a0d-6957f1978ba0" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-73e5b12b-f0f1-4ab0-a20f-b801f988092e" for="icon-button-38de65f1-fa37-4a52-9e27-fad9b31bbc5b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 </clipboard-copy>
 </custom-scopes>
 </details-dialog>
@@ -77807,7 +77807,7 @@ $searchForm
 </modal-dialog></div>
 </nav>
 </p>
-</qbsearch-input><input type="hidden" value="Fq9jF3S-M37nTVEiISdswyPMw7SqrSG2hWy0pA5A8d4uDG5GK6JlQEZA4zE8qdGqociDF1YV3MyCwV8p1HkX7g" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+</qbsearch-input><input type="hidden" value="ebj-egmjV4f4-T-ekgxd-tRYSDzeBYSV5WmwSIvDtjhnb4HDB6yPo9M65wYyk2Hz6m9klX62LPW0DjZYh1919w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
 </query-builder></form>
 </react-partial>
 </span>
@@ -77907,7 +77907,7 @@ $searchForm
 <button data-close-dialog-id="feedback-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
 <button form="code-search-feedback-form" data-action="click:qbsearch-input#submitFeedback" type="submit" data-view-component="true" class="btn-primary btn">    Submit feedback
 <button form="custom-scopes-dialog-form" data-action="click:custom-scopes#customScopesSubmit" data-target="custom-scopes.customScopesSubmitButton" type="submit" data-view-component="true" class="btn-primary btn">    Create saved search
-<button id="icon-button-29eb504c-8c73-44ca-9a0d-6957f1978ba0" aria-labelledby="tooltip-3dd1f05e-9113-4336-9527-50c7e581e054" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+<button id="icon-button-38de65f1-fa37-4a52-9e27-fad9b31bbc5b" aria-labelledby="tooltip-73e5b12b-f0f1-4ab0-a20f-b801f988092e" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
 <button role="button" id="query-builder-test-clear-button" aria-labelledby="query-builder-test-clear query-builder-test-label" data-target="query-builder.clearButton" data-action="
 <button type="button" class="Header-backdrop d-lg-none border-0 position-fixed top-0 left-0 width-full height-full js-details-target" aria-label="Toggle navigation">
 <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
@@ -77924,7 +77924,7 @@ $searchForm
 <div class=" d-flex flex-column flex-lg-row flex-items-center p-responsive height-full position-relative z-1">
 <div class="">
 <div class="FormControl FormControl--fullWidth">
-<div class="FormControl-inlineValidation" id="validation-bce5e854-a98c-4149-8836-173070a8ee89" hidden="hidden">
+<div class="FormControl-inlineValidation" id="validation-418e30f3-0186-40e6-aece-e91557ced0d7" hidden="hidden">
 <div class="HeaderMenu--logged-out p-responsive height-fit position-lg-relative d-lg-flex flex-column flex-auto pt-7 pb-4 top-0">
 <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 d-lg-flex dropdown-menu-wide">
 <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 px-lg-4">
@@ -77992,7 +77992,7 @@ $searchForm
 <div data-target="react-partial.reactRoot"></div>
 <div data-target="webauthn-status.partial" class="d-flex flex-justify-between flex-column mt-3 mb-0" hidden>
 <div data-turbo-body class="logged-out env-production page-responsive min-height-full d-flex flex-column" style="word-wrap: break-word;">
-<div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qxaRSsu1FnyZxlZDkQI5DxO74CTMcNLfUY3I14DyDYUBg5EkVFKrAl8HfMvSugrzyskyD1zLSOxkE-7lXl0uHA" />
+<div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UXaA-ta5gxiqioWIvM7DqksJHghnjPKpkzGSrPCW4e2ZS2A9pJgsnmHFbz71jcyMEBoMlf0Q1BSFtEQUo0AxIQ" />
 <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd Overlay-footer--divided">          <button data-action="click:custom-scopes#customScopesCancel" type="button" data-view-component="true" class="btn">    Cancel
 <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd">          <button data-close-dialog-id="feedback-dialog" type="button" data-view-component="true" class="btn">    Cancel
@@ -78000,7 +78000,7 @@ $searchForm
 <div data-view-component="true" class="Overlay-header">
 <div data-view-component="true">        <div class="search-suggestions position-fixed width-full color-shadow-large border color-fg-default color-bg-default overflow-hidden d-flex flex-column query-builder-container"
 <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-<div hidden="hidden" data-view-component="true" class="js-stale-session-flash stale-session-flash flash flash-warn mb-3">
+<div hidden="hidden" data-view-component="true" class="js-stale-session-flash stale-session-flash flash flash-warn flash-full mb-3">
 <div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
 <div id="js-flash-container" data-turbo-replace>
 <div id="js-global-screen-reader-notice" class="sr-only" aria-live="polite" aria-atomic="true" ></div>
@@ -78020,7 +78020,7 @@ $searchForm
 <h4 data-view-component="true" class="color-fg-default mb-2">                  Sign in to GitHub
 <head>
 <header class="Header-old header-logged-out js-details-container Details position-relative f4 py-3" role="banner" data-color-mode=light data-light-theme=light data-dark-theme=dark>
-<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"  data-a11y-animated-images="system" data-a11y-link-underlines="true">
+<html lang="en" class=" no-js" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"  data-a11y-animated-images="system" data-a11y-link-underlines="true">
 <img alt="" class="position-absolute" height="123" width="304" style="top: 73px; left: 467px; z-index: 5;"
 <img alt="" class="position-absolute" height="156" width="440" style="top: 150px; left: 432px; z-index: 8;"
 <img alt="" class="position-absolute" height="230" width="188" style="top: 94px; left: 356px; z-index: 9;"
@@ -78038,7 +78038,7 @@ $searchForm
 <img src="https://github.githubassets.com/assets/youtube-25bc21e924c8.svg" width="23" height="16"  class="d-block" loading="lazy" decoding="async" alt="YouTube icon">
 <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
 <input
-<input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-bce5e854-a98c-4149-8836-173070a8ee89" data-target="query-builder.input" data-action="
+<input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-418e30f3-0186-40e6-aece-e91557ced0d7" data-target="query-builder.input" data-action="
 <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
 <input type="hidden" class="js-support" name="javascript-support" value="unknown">
 <input type="hidden" class="js-webauthn-iuvpaa-support" name="webauthn-iuvpaa-support" value="unknown">
@@ -78050,12 +78050,12 @@ $searchForm
 <input type="hidden" name="return_to" id="return_to" value="https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/RobotsDisallowed-Top1000.txt" autocomplete="off" class="form-control" />
 <input type="hidden" name="type" class="js-site-search-type-field">
 <input type="hidden" name="webauthn-conditional" value="undefined">
-<input type="hidden" value="k0wWYigZahYeJ-NT_wqWvQUETGVK6SWw8H2HNYr11C7kUUocIjLhK8ieGWmGKNTl3rLNIdLh7xcPZN5X00PkPg" data-csrf="true" />
+<input type="hidden" value="Dsw1gRivTM3g1EHBcbiEykVOB4ImAiMhAgd6sh2DfZ29Nd4_MXReB2Ba37m1qvwqWVEdR4s2_k8PaZ-U_d1fNA" data-csrf="true" />
 <input type="password" name="password" id="password" class="form-control form-control input-block js-password-field" autocomplete="current-password" />
 <input type="submit" name="commit" value="Sign in" class="btn btn-primary btn-block js-sign-in-button" data-disable-with="Signing in…" data-signin-label="Sign in" data-sso-label="Sign in with your identity provider" development="false" disable-emu-sso="false" />
 <input type="text" name="login" id="login_field" class="form-control input-block js-login-field" autocapitalize="off" autocorrect="off" autocomplete="username" autofocus="autofocus" />
 <input type="text" name="q" id="not-found-search" class="flex-auto input-lg form-control mr-2">
-<input type="text" name="required_field_5e8e" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1701478661758" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="7db42ff9e924cba08da10afa6428847c1137b4369a3441492795544567875766" autocomplete="off" class="form-control" />
+<input type="text" name="required_field_ff7a" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1702083497680" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="f533bde952a14c7f9899b293d8e1f81c72a6643c82c23f9cbf2327427645b82f" autocomplete="off" class="form-control" />
 <label for="custom_scope_name">Name</label>
 <label for="custom_scope_query">Query</label>
 <label for="include_email" style="font-weight: normal">Include my email address so I can be contacted</label>
@@ -78068,13 +78068,14 @@ $searchForm
 <li class="mr-3">
 <li class="mx-2">
 <li>
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-11d1c21d55c5.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-49063950bef4.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-f22204271997.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-4a5ce21c3d04.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-fa8bebd8cfe2.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-1d978ab3a30e.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-0b34037c6ef6.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-5e6b018cda80.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-5a13b78ffdce.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-fb1175fafdd5.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-eb972891612d.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-a0dd60db4c05.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-363ec1831c26.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-a56c5d4d23c0.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/site-c3a78066e440.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/error-3138b3a0095a.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-40862559c981.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-0cf5819c7948.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-38f1bf52eeeb.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-56010aa53a8f.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-b2e1b478d5b4.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-e7f12ffa82f3.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-ddca79c20026.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-8017b9c4037b.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-3ce2d3d8a4d3.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-02059c141ad5.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-870ee47909bf.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-fb122a21966c.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-971c6be3ec9f.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-5f46d4c29482.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/site-3e69b01480a2.css" />
 <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
 <link rel="assets" href="https://github.githubassets.com/">
 <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
@@ -78091,10 +78092,10 @@ $searchForm
 <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
 <main class="font-mktg">
 <meta charset="utf-8">
-<meta http-equiv="x-pjax-csp-version" content="b4c8597ef4225e5a7a76c2140cb6cc5d01aa3639dff0a1dc9a6696ca8e3f5823" data-turbo-track="reload">
-<meta http-equiv="x-pjax-css-version" content="83cecd76a9f47eb767972673af636e3b50c4710c50b8ad6b8063dcb22a426eaa" data-turbo-track="reload">
-<meta http-equiv="x-pjax-js-version" content="4006054ec71f399591c1755f8b92709c89beb66bfe0716a0dbfa43d51a4ec970" data-turbo-track="reload">
-<meta http-equiv="x-pjax-version" content="03a616c6875d429dcfa078d1fce8413955e1bfca79b9ce42ec0eab111179155b" data-turbo-track="reload">
+<meta http-equiv="x-pjax-csp-version" content="611e3beaf6df2ba8f98070845c8e5ef70f0ffc535519af6685e8341fcd41c235" data-turbo-track="reload">
+<meta http-equiv="x-pjax-css-version" content="f3c7f0429e5ef5048ea5be4e82963c90d6cc34b1c18e1b2dd08d06c2f09b1ff2" data-turbo-track="reload">
+<meta http-equiv="x-pjax-js-version" content="62cfaecd355c68cf58151c3ab44716f78fdabc377c6065312a97798e10c5ebbe" data-turbo-track="reload">
+<meta http-equiv="x-pjax-version" content="9311421761bf8d229ea9dbca6399708044ded0d2bd1c1973ad005f5ae8843cf9" data-turbo-track="reload">
 <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/RobotsDisallowed-Top1000.txt" />
 <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
 <meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
@@ -78113,7 +78114,7 @@ $searchForm
 <meta name="hovercard-subject-tag" content="repository:3482588" data-turbo-transient>
 <meta name="is_logged_out_page" content="true">
 <meta name="octolytics-url" content="https://collector.github.com/github/collect" />
-<meta name="request-id" content="CCD7:5ACA:6ED1D9E:73FA55D:656A8105" data-turbo-transient="true" /><meta name="html-safe-nonce" content="1869c2e23bc6df8867081f77dfb94bf24ab051d532f69cfaa1b6cc3cd4cbb8e1" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkNDRDc6NUFDQTo2RUQxRDlFOjczRkE1NUQ6NjU2QTgxMDUiLCJ2aXNpdG9yX2lkIjoiNjAzNzYyMDMwNzc3MTY4NzE3MyIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="0ea3b9de565e9143dd023f3da084ae071ea913d2d024809eb79e77e223380951" data-turbo-transient="true" />
+<meta name="request-id" content="401D:75F7:2822E4E:397D4D7:6573BBA9" data-turbo-transient="true" /><meta name="html-safe-nonce" content="f9c6cc3aa603f1ee4e9f35843e486f96fa74c50070ae97103a876f5c1d0f3f9b" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IjQwMUQ6NzVGNzoyODIyRTRFOjM5N0Q0RDc6NjU3M0JCQTkiLCJ2aXNpdG9yX2lkIjoiMzMxODUxNTg5MzIyOTgyOTAzMyIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="f49509e1249cb3279676cf4ff562e2b10d3a19533b5845c5395deb4521a2ae1c" data-turbo-transient="true" />
 <meta name="route-pattern" content="/:user_id/:repository/raw/*name(/*path)">
 <meta name="selected-link" value="/danielmiessler/SecLists/raw/master/Discovery/Web-Content/RobotsDisallowed-Top1000.txt" data-turbo-transient>
 <meta name="theme-color" content="#1e2327">
@@ -78180,56 +78181,58 @@ $searchForm
 <path d="M8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17Zm35.85 2.33c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88ZM27.68 2.43c.09 0 .17.08.17.17v11.11c0 .09-.08.17-.17.17h-2.13c-.09 0-.17-.08-.17-.17l.02-4.75h-3.31v4.75c0 .09-.08.17-.17.17h-2.13c-.08 0-.17-.08-.17-.17V2.6c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v4.09h3.31V2.6c0-.09.08-.17.17-.17Zm8.26 3.64c.11 0 .19.08.19.17l-.02 7.47c0 .09-.06.17-.17.17H34.6c-.07 0-.14-.04-.16-.09-.03-.06-.08-.45-.08-.45s-1.13.77-2.52.77c-1.69 0-2.92-.55-2.92-2.75V6.25c0-.09.08-.17.17-.17h2.14c.09 0 .17.08.17.17V11c0 .75.22 1.09.97 1.09s1.3-.39 1.3-.39V6.26c0-.11.06-.19.17-.19Zm-17.406 5.971h.005a.177.177 0 0 1 .141.179v1.5c0 .07-.03.14-.09.16-.1.05-.74.22-1.27.22-1.16 0-2.86-.25-2.86-2.69V8.13h-1.11c-.09 0-.17-.08-.17-.19V6.58c0-.08.05-.15.13-.17.07-.01 1.16-.28 1.16-.28V3.96c0-.08.05-.13.14-.13h2.16c.09 0 .14.05.14.13v2.11h1.59c.08 0 .16.08.16.17v1.7c0 .11-.07.19-.16.19h-1.59v3.131c0 .47.27.83 1.05.83.247 0 .481-.049.574-.05ZM12.24 6.06c.09 0 .17.08.17.17v7.37c0 .18-.05.27-.25.27h-1.92c-.17 0-.3-.07-.3-.27V6.26c0-.11.08-.2.17-.2Zm29.99 3.78c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25ZM11.19 2.68c.75 0 1.36.61 1.36 1.38 0 .77-.61 1.38-1.36 1.38-.77 0-1.38-.61-1.38-1.38 0-.77.61-1.38 1.38-1.38Zm7.34 9.35v.001l.01.01h-.001l-.005-.001v.001c-.009-.001-.015-.011-.024-.011Z"></path>
 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
 <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
-<qbsearch-input class="search-input" data-scope="owner:danielmiessler" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="4jZWZxGPtNmSpN59NLeP6Ze-A840adANqiJXMXdFqpslFHGVYKLWayOr75kGZ4YjTQ_pbw_6VRprCex3-vPN7w" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false">
+<qbsearch-input class="search-input" data-scope="owner:danielmiessler" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="nQjLfMMDTwMBZBZlnfyYUsipwC_QPL_1wbs5fZ4PpTjR-uQoPf4AN0gfXNbIMt3kn6J85kxstUPY4jtVebRqNw" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false">
 <query-builder data-target="qbsearch-input.queryBuilder" id="query-builder-query-builder-test" data-filter-key=":" data-view-component="true" class="QueryBuilder search-query-builder">
 <react-partial
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-2e2258-178d980b559e.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-b85e9f4f1304.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_onfocus_ts-app_ass-079b43-6456ec2164f8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_onfocus_ts-app_ass-079b43-41d2666c7856.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-b452ca178b7e.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_updatable-content_ts-ui_packages_hydro-analytics_hydro-analytics_ts-6ab1a34074c8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-4408c377df96.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-c49c6a8d0395.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-599072e1b80d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-8b56f9ede7b7.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/keyboard-shortcuts-dialog-4c1f0f2061d1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_updatable-content_ts-c49b3c18a21f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-1ad763fd7e6d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/cookie-consent-management-b44675d8ec31.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-8f94fb23406a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-69076cd8b5fe.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-3d6d35cdae44.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/keyboard-shortcuts-dialog-9a58268fa086.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-99d196517b1b.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-1fbfc5be2c18.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/sessions-b83b5c3ae6c0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_details-dialog_details-dialog_ts-ui_packages_fetch-utils_fetch-utils_ts-78f25ba16cd9.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/sessions-1164ee5f3e37.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_react-core_deferred-registry_ts--ebbb92-f862877dad23.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_soft-nav_soft-nav_ts-6a5fadd2ef71.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_color-convert_index_js-72c9fbde5ad4.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_consent-banner_dist_consent-banner_js-node_modules_github_catalyst_lib_i-f29431-4f8f4e329923.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-d0256ebff5cd.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_details-dialog-elemen-29dc30-a2a71f11a507.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-6890e890956f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_fzy_js_index_js-node_modules_github_combobox-nav_dist_index_js-node_modu-344bff-421f7a8c1008.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_catalyst_lib_index_js-node_modules_github_hydro-analytics-client_-978abc0-15861e0630b6.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-eb424d-42f5b364ec35.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-59c459-e74bf552c5b7.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-6a10dd-035692e634e2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-eb424d-2c2d25f8d174.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-59c459-d0c49521eb35.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-6a10dd-8837a7c17569.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_alive-client_dist-bf5aa2-1b562c29ab8e.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_github_quote-select-1b5533-c5ecf069cb7e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_github_quote-select-618d6c-59676cf880fb.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-c6fd49e3fd28.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-99519581d0f8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_scroll-anchoring_dist_scro-231ccf-b172749aea86.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_scroll-anchoring_dist_scro-231ccf-a475bbdc12ba.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-9f960d9b217c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_session-resume_dist_index_js-node_modules_primer_behaviors_dist_e-ac74c6-637fd908cfc1.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ec51a0f6e881.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_session-resume_dist_index_js-node_modules_primer_behaviors_dist_e-ac74c6-c3eb71941f78.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-08af682f4f63.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-5b376145beff.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_morphdom_dist_morphdom-esm_js-5bff297a06de.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_dimensions_js-node_modules_github_jtml_lib_index_js-e415d8268a81.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-d9ce45da2851.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_octicons-react_dist_index_esm_js-node_modules_primer_react_lib-es-2e8e7c-0f375fc77eaa.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-09fc885ddec2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_dimensions_js-node_modules_github_jtml_lib_index_js-95b84ee6bc34.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-26c21c341c6b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_octicons-react_dist_index_esm_js-node_modules_primer_react_lib-es-2e8e7c-1a12de277da8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-00798610cb56.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Box_Box_js-ebfceb11fb57.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-2c03574279a4.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_IconButton_js-node_modules_primer_react_lib--23bcad-0c1b5737bcad.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Link_Link_js-node_modules_primer_react_node_modules-99166f-1f85171cf8dc.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_IconButton_js-node_modules_primer_react_lib--23bcad-640dc499c500.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Heading_Heading_js-node_modules_primer_react_lib-es-9f3da6-10762a8dbd29.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-a4c183-79f9611c275b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-ae122eaf07c6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-8c7429f51739.js"></script>
+<script type="application/json" data-target="react-partial.embeddedData">{"props":{"cookieConsentRequired":false,"initialCookieConsentAllowed":null}}</script>
 <script type="application/json" data-target="react-partial.embeddedData">{"props":{}}</script>
-<script type="application/json" id="client-env">{"locale":"en","featureFlags":["failbot_handle_non_errors","geojson_azure_maps","image_metric_tracking","turbo_experiment_risky","sample_network_conn_type","initial_emu_login_experience"]}</script>
+<script type="application/json" id="client-env">{"locale":"en","featureFlags":["copilot_conversational_ux_streaming","failbot_handle_non_errors","geojson_azure_maps","image_metric_tracking","turbo_experiment_risky","sample_network_conn_type","no_character_key_shortcuts_in_inputs"]}</script>
 <span class="Button-label"><div class="HeaderMenu-toggle-bar rounded my-1"></div>
 <span class="Button-label">or sign in with a passkey</span>
 <span class="FormControl-inlineValidation--visual">
@@ -209080,6 +209083,7 @@ partes
 partfinder
 partia
 partial
+partial-name="cookie-consent-management"
 partial-name="keyboard-shortcuts-dialog"
 partials
 partic
