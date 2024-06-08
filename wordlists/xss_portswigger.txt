@@ -3,8 +3,8 @@
 " variant="small" hidden="hidden" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium mr-1 px-2 py-0 d-flex flex-items-center rounded-1 color-fg-muted">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill Button-visual">
 &copy; <time datetime="2024">2024</time> GitHub, Inc.
 (<a href="https://github.com/github/site-policy/pull/582" class="Link--secondary">Updated <time datetime="2022-08">08/2022</time></a>)
-<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8GW5xtxMSWUI_edtMR_r6wDRlfjgFsJieqiFK345vZbiebWx-qExvq-fWEE8ymKGeMzyqNTDcYrGbJhH8uVqyQ" />    <label for="login_field">
-<!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PFL1SPAKHz-H69S_5eveKaV3CZnLBQq0aNDvm0etGtjQ78DfdZckaDwARk6U5It15Wz96CZjDGQRMkCW04x02g" />
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ukTJfPxlaXw0fstaY8DWCK80FtfjBCUikdh0lSRxIFtgTwYCIFeI1wYWBv6huQGHLi_idPFRqRZiPvUOFzpfoA" />    <label for="login_field">
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BWZc-3PMN6SYnNrrXWa6whSxYsP5pwSiIfP3IXsaqtULyu7dnwIyRDCaewymEGW9SiY2vULavW1EJH0d7z5JTA" />
 <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="query-builder-test-form" action="" accept-charset="UTF-8" method="get">
 <!-- '"` --><!-- </textarea></xmp> --></option></form><form role="search" data-turbo="false" action="/search" accept-charset="UTF-8" method="get">
 <!DOCTYPE html>
@@ -14,7 +14,7 @@
 </auto-check>
 </body>
 </button>
-</button><tool-tip id="tooltip-ff845dac-54e2-4c9b-97f3-649ee4d04e04" for="icon-button-0ff2a11e-169e-4916-8c38-9a70e1beee43" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-ca43828b-789f-4fb9-9700-3e7555eb822f" for="icon-button-9c4c054c-bef1-4b57-bf30-d26abb0eb1b1" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 </clipboard-copy>
 </cookie-consent-link>
 </custom-scopes>
@@ -41,7 +41,7 @@
 </modal-dialog></div>
 </nav>
 </p>
-</qbsearch-input><input type="hidden" value="zsrdNC4CqEswvrVHOLmGtpiIgFY_yV1ekmI1ehfrxfQ45sSN1MPStMfDU-mx9O-vOzJjZxrjuAQGJPabkVPS_w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+</qbsearch-input><input type="hidden" value="MDNw-F3MRcMCrXoEceqhG3zdVKHS-N-m_TvcFk7mDgQqnNvwJYmZupKT96Shs67Ksu880wB20AJZRERdHON9OA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
 </query-builder></form>
 </react-partial>
 </scrollable-region>
@@ -53,11 +53,11 @@
 </ul>
 </webauthn-status>
 <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Enterprise&quot;,&quot;action&quot;:&quot;click to go to Advanced Security&quot;,&quot;label&quot;:&quot;ref_cta:Advanced Security;&quot;}" href="https://github.com/enterprise/advanced-security">
-<a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Enterprise&quot;,&quot;action&quot;:&quot;click to go to Copilot Enterprise&quot;,&quot;label&quot;:&quot;ref_cta:Copilot Enterprise;&quot;}" href="/features/copilot#enterprise">
+<a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Enterprise&quot;,&quot;action&quot;:&quot;click to go to GitHub Copilot&quot;,&quot;label&quot;:&quot;ref_cta:GitHub Copilot;&quot;}" href="/features/copilot#enterprise">
 <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_cta:Actions;&quot;}" href="https://github.com/features/actions">
 <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_cta:Code review;&quot;}" href="https://github.com/features/code-review">
 <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_cta:Codespaces;&quot;}" href="https://github.com/features/codespaces">
-<a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_cta:Copilot;&quot;}" href="https://github.com/features/copilot">
+<a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Copilot&quot;,&quot;label&quot;:&quot;ref_cta:GitHub Copilot;&quot;}" href="https://github.com/features/copilot">
 <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_cta:Issues;&quot;}" href="https://github.com/features/issues">
 <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_cta:Packages;&quot;}" href="https://github.com/features/packages">
 <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_cta:Security;&quot;}" href="https://github.com/features/security">
@@ -148,7 +148,7 @@
 <button data-close-dialog-id="feedback-dialog" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
 <button form="code-search-feedback-form" data-action="click:qbsearch-input#submitFeedback" type="submit" data-view-component="true" class="btn-primary btn">    Submit feedback
 <button form="custom-scopes-dialog-form" data-action="click:custom-scopes#customScopesSubmit" data-target="custom-scopes.customScopesSubmitButton" type="submit" data-view-component="true" class="btn-primary btn">    Create saved search
-<button id="icon-button-0ff2a11e-169e-4916-8c38-9a70e1beee43" aria-labelledby="tooltip-ff845dac-54e2-4c9b-97f3-649ee4d04e04" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+<button id="icon-button-9c4c054c-bef1-4b57-bf30-d26abb0eb1b1" aria-labelledby="tooltip-ca43828b-789f-4fb9-9700-3e7555eb822f" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
 <button role="button" id="query-builder-test-clear-button" aria-labelledby="query-builder-test-clear query-builder-test-label" data-target="query-builder.clearButton" data-action="
 <button type="button" class="Header-backdrop d-lg-none border-0 position-fixed top-0 left-0 width-full height-full js-details-target" aria-label="Toggle navigation">
 <button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false">
@@ -171,7 +171,7 @@
 <div class=" d-flex flex-column flex-lg-row flex-items-center p-responsive height-full position-relative z-1">
 <div class="">
 <div class="FormControl FormControl--fullWidth">
-<div class="FormControl-inlineValidation" id="validation-c2ec36e9-fdd2-4b91-9f8e-390ad823b759" hidden="hidden">
+<div class="FormControl-inlineValidation" id="validation-0930f8f0-0e3d-4175-89ac-20fcf3ab1c30" hidden="hidden">
 <div class="HeaderMenu--logged-out p-responsive height-fit position-lg-relative d-lg-flex flex-column flex-auto pt-7 pb-4 top-0">
 <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 d-lg-flex dropdown-menu-wide">
 <div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 px-lg-4">
@@ -191,10 +191,9 @@
 <div class="color-fg-default h4">Advanced Security</div>
 <div class="color-fg-default h4">Code review</div>
 <div class="color-fg-default h4">Codespaces</div>
-<div class="color-fg-default h4">Copilot Enterprise</div>
-<div class="color-fg-default h4">Copilot</div>
 <div class="color-fg-default h4">Discussions</div>
 <div class="color-fg-default h4">Enterprise platform</div>
+<div class="color-fg-default h4">GitHub Copilot</div>
 <div class="color-fg-default h4">GitHub Sponsors</div>
 <div class="color-fg-default h4">Issues</div>
 <div class="color-fg-default h4">Packages</div>
@@ -238,7 +237,7 @@
 <div data-target="react-partial.reactRoot"></div>
 <div data-target="webauthn-status.partial" class="d-flex flex-justify-between flex-column mt-3 mb-0" hidden>
 <div data-turbo-body class="logged-out env-production page-responsive min-height-full d-flex flex-column" style="word-wrap: break-word;">
-<div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RlPoTMXlcXkaf1OBP-85JMeUkqb4XImoSCpkhH7tsxctndWnH-5v_iEr5bwTnEyL9Yu-CoDzIrGtLSATyMhb-w" />
+<div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4Z1u_N8-egm1sga1Riqg19Xh6bSdpcW2fQNlA0_HkIcGj99fgJRdnVb1thyXxeyMAGSyGD3e_jN8KdvnZhjncQ" />
 <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd Overlay-footer--divided">          <button data-action="click:custom-scopes#customScopesCancel" type="button" data-view-component="true" class="btn">    Cancel
 <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd">          <button data-close-dialog-id="feedback-dialog" type="button" data-view-component="true" class="btn">    Cancel
@@ -280,7 +279,7 @@
 <img alt="404 &ldquo;This is not the web page you are looking for&rdquo;" class="position-absolute" height="249" width="271" style="z-index: 10; left: 72px; top: 72px"
 <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
 <input
-<input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-c2ec36e9-fdd2-4b91-9f8e-390ad823b759" data-target="query-builder.input" data-action="
+<input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-0930f8f0-0e3d-4175-89ac-20fcf3ab1c30" data-target="query-builder.input" data-action="
 <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
 <input type="hidden" class="js-support" name="javascript-support" value="unknown">
 <input type="hidden" class="js-webauthn-iuvpaa-support" name="webauthn-iuvpaa-support" value="unknown">
@@ -292,12 +291,12 @@
 <input type="hidden" name="return_to" id="return_to" value="https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS/XSS-Cheat-Sheet-PortSwigger.txt" autocomplete="off" class="form-control" />
 <input type="hidden" name="type" class="js-site-search-type-field">
 <input type="hidden" name="webauthn-conditional" value="undefined">
-<input type="hidden" value="om2o8yiraTGsgdxqCvl0CI4rn2m-YyS9Epqa7Yb0HMv2Xk4CJugRluEW7rhmQuRGO-uFEvCDs48fvRACoZsfEQ" data-csrf="true" />
+<input type="hidden" value="KltNAkUzlyG_Jm2oiqLYa3zNurInKhC3b-fmt2YiM-IxaUj0_ZS7jHxfY6JGYjqKGoV829iHztNKzvzS-9pULQ" data-csrf="true" />
 <input type="password" name="password" id="password" class="form-control form-control input-block js-password-field" autocomplete="current-password" required="required" />
 <input type="submit" name="commit" value="Sign in" class="btn btn-primary btn-block js-sign-in-button" data-disable-with="Signing in…" data-signin-label="Sign in" data-sso-label="Sign in with your identity provider" development="false" disable-emu-sso="false" />
 <input type="text" name="login" id="login_field" class="form-control input-block js-login-field" autocapitalize="off" autocorrect="off" autocomplete="username" autofocus="autofocus" required="required" />
 <input type="text" name="q" id="not-found-search" class="flex-auto input-lg form-control mr-2">
-<input type="text" name="required_field_b97e" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1717203917387" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="203849ac0e931f307ec645d24e01ac1b06092da432347009eb1ef36b0e24b8f8" autocomplete="off" class="form-control" />
+<input type="text" name="required_field_bcf2" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1717808536669" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="a25aea3b73b0306e20ba89eab1bb00feaa1580fe9f173fa440984e36238c586b" autocomplete="off" class="form-control" />
 <label for="custom_scope_name">Name</label>
 <label for="custom_scope_query">Query</label>
 <label for="include_email" style="font-weight: normal">Include my email address so I can be contacted</label>
@@ -315,7 +314,7 @@
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-f1af66156f94.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-545513c45073.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-f552bab6ce72.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-4589f64a2275.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-a7246d2d6733.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-f2ef05cef2f1.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-daa1fe317131.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-1ab6fcc64845.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-46de871e876c.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-c9754fef2a31.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-dba748981a29.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-fa3434a1ba0a.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-87f353b17355.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-4cbeaa0795ef.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-2e900f0ac288.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/site-ef27eb8b26f3.css" />
@@ -336,10 +335,10 @@
 <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
 <main class="font-mktg">
 <meta charset="utf-8">
-<meta http-equiv="x-pjax-csp-version" content="38c639a245e1dd04786881fae1060fbd72d3ed419b2f0d38d6082dc9d67876c3" data-turbo-track="reload">
-<meta http-equiv="x-pjax-css-version" content="f37eaf27fe12b105c6661d303537787959eeb4bf52c6937d9165fd6b569faf30" data-turbo-track="reload">
-<meta http-equiv="x-pjax-js-version" content="6bd213009bc4c5a5b2e309274f1381fe1179f18b90a1b92674aaf49ca13f3344" data-turbo-track="reload">
-<meta http-equiv="x-pjax-version" content="5dd69dd10c344358bf885e6a3901f9bdca17c7148fc177721d48d898e3b7e7f1" data-turbo-track="reload">
+<meta http-equiv="x-pjax-csp-version" content="cd708ee2def842997e00c6ea48122249b3249615ca3c50f1e66cc10581f34f3c" data-turbo-track="reload">
+<meta http-equiv="x-pjax-css-version" content="a231bdac81d3a969a38b5854f9189b5fd6b6771f9788e9c2a20fadd334ed3906" data-turbo-track="reload">
+<meta http-equiv="x-pjax-js-version" content="4b2e7225b2e33ebed743e4e560d6fb1284637503a4631a1f8958dcc47b00254c" data-turbo-track="reload">
+<meta http-equiv="x-pjax-version" content="9a403a414df06c4441f479b55c77629653ad70ec2b3f7281d6ac72ac27371b99" data-turbo-track="reload">
 <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS/XSS-Cheat-Sheet-PortSwigger.txt" />
 <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
 <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -353,7 +352,7 @@
 <meta name="hovercard-subject-tag" content="repository:3482588" data-turbo-transient>
 <meta name="is_logged_out_page" content="true">
 <meta name="octolytics-url" content="https://collector.github.com/github/collect" />
-<meta name="request-id" content="E450:25BA68:4C7F6B4:6B971BF:665A73CD" data-turbo-transient="true" /><meta name="html-safe-nonce" content="62abc2c46dfad894329abef15b5bc16a53d637fa87421e6d9f57355fb5d0a206" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkU0NTA6MjVCQTY4OjRDN0Y2QjQ6NkI5NzFCRjo2NjVBNzNDRCIsInZpc2l0b3JfaWQiOiIzMjAzNjA2NzY2MjQ5NzM1MTE3IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="04f06bbf5c516413bbb5c435c660ddcfcf8e67bcb7d93402692199419be8f861" data-turbo-transient="true" />
+<meta name="request-id" content="F440:11AF74:299A788:3A2A7C8:6663AD98" data-turbo-transient="true" /><meta name="html-safe-nonce" content="77f1e640794608025acd390b814047d3332d18c953a8937ceeac3c1e222a0526" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkY0NDA6MTFBRjc0OjI5OUE3ODg6M0EyQTdDODo2NjYzQUQ5OCIsInZpc2l0b3JfaWQiOiIxODAyMDgyOTUzNTc5NTEzODQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="048239570d45a0b18b772c60ff76a08be77ece034d7415ef98bfd2aec26203f0" data-turbo-transient="true" />
 <meta name="route-action" content="raw" data-turbo-transient>
 <meta name="route-controller" content="blob" data-turbo-transient>
 <meta name="route-pattern" content="/:user_id/:repository/raw/*name(/*path)" data-turbo-transient>
@@ -448,34 +447,35 @@
 <path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
 <path d="m8.533.133 5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667l5.25-1.68a1.748 1.748 0 0 1 1.066 0Zm-.61 1.429.001.001-5.25 1.68a.251.251 0 0 0-.174.237V7c0 1.36.275 2.666 1.057 3.859.784 1.194 2.121 2.342 4.366 3.298a.196.196 0 0 0 .154 0c2.245-.957 3.582-2.103 4.366-3.297C13.225 9.666 13.5 8.358 13.5 7V3.48a.25.25 0 0 0-.174-.238l-5.25-1.68a.25.25 0 0 0-.153 0ZM11.28 6.28l-3.5 3.5a.75.75 0 0 1-1.06 0l-1.5-1.5a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l.97.97 2.97-2.97a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
 <path d="m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0ZM7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0ZM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z"></path>
-<qbsearch-input class="search-input" data-scope="owner:danielmiessler" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="lZrW3CJNP-RjUNjFztghuGld_5Akvq1d_Uuo7GdMUJy-oUCig9XZgTD0qxRUVBYZjS8UYlwIOxSZFrhoJhLbJg" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<input type=&quot;hidden&quot; value=&quot;Edo4FGg8QXPzlWi9yfunDMOPn_PEuToPTasOhTHKO7-7ebM-58qu_Bj2nOOc0Eia2Pxu1Zrwn4CVHuOUE2hMqg&quot; data-csrf=&quot;true&quot; />">
+<qbsearch-input class="search-input" data-scope="owner:danielmiessler" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="j3XSqQ3QE9igTI5eED0_6fpfKJOkx3gVzktj79qDlzZ3xi4KLVAQyUTbBJP83sEGYsfN8XGMAC6q-cYiFr44MA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<input type=&quot;hidden&quot; value=&quot;vinFR-sFLlS_eORsv5TSJvKRIZ0XMme2nUzG38sJN4LrGyZjfPiu5fueN1VjSXpQo5sagb2QcYsiiiiWmYh_XA&quot; data-csrf=&quot;true&quot; />">
 <query-builder data-target="qbsearch-input.queryBuilder" id="query-builder-query-builder-test" data-filter-key=":" data-view-component="true" class="QueryBuilder search-query-builder">
 <react-partial
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-467754-2363a1c8ed46.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-467754-0b06f9573e1c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-5276a3faf037.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_onfocus_ts-app_ass-421cec-d3af2356fb47.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_onfocus_ts-ui_packages_trusted-types-policies_policy_ts-ui_packages-6fe316-ae5060590d17.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_onfocus_ts-ui_packages_trusted-types-policies_policy_ts-ui_packages-6fe316-4083e7233d28.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-3dc342dedcb0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_updatable-content_ts-4d91e80fb877.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-dea72fb5100b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-197b5d54992e.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-2168885ea2b8.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-d00866eeec16.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/keyboard-shortcuts-dialog-5cf59981c8b2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_updatable-content_ts-7fcc5f2841d8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-4f7a77997eec.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-cd98973a4316.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-65dcc25bed15.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-013d2eeedc88.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/keyboard-shortcuts-dialog-abd3611b87d8.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-0409f6303340.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-dc88c1a68b28.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/sessions-458fee042571.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-682c2c-44ed51a2083d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_githu-fd5530-4007dac5c26f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_githu-fd5530-79ffdad54bcd.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_color-convert_index_js-cdd1e82b3795.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-2ea61fcc9a71.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-810e4b1b9abd.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_catalyst_-392fe4-1327b94f3269.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-c238a4-c6bbd5d2c027.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_catalyst_-392fe4-5df1d85d02da.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_combobox-nav_dist_index_js-node_modules_github_markdown-toolbar-e-820fc0-1176135e4d90.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-3959a9-78d79e74e4ca.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-b7d8f4-6e6f83bcc978.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_delegated-events_dist_in-b63d41-209f14258c8d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_textarea-autosi-9e0349-704599a61056.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-c76945c5961a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_delegated-events_dist_in-b63d41-1e3984e4dd2f.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_textarea-autosi-9e0349-7c78ee755ad3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-5c00adf875b8.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-893f9f-880ac2bbb719.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-8743f7dc256e.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-9f960d9b217c.js"></script>
@@ -486,18 +486,18 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_morphdom_dist_morphdom-esm_js-node_modules_github_memoize_dist_esm_index_js-8d7117d67c36.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-4ac41d0a76fd.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_dimensions_js-node_modules_github_jtml_lib_index_js-b1947a1d4855.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-c7679f99a1f3.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_octicons-react_dist_index_esm_js-node_modules_primer_react_lib-es-541a38-c63b7a3484dd.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-9e50e37cd494.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Box_Box_js-8f8c5e2a2cbf.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-97ed51d4f278.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_IconButton_js-node_modules_primer_react_lib--1cd808-6070bc6b2c67.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-f669b9466f06.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_octicons-react_dist_index_esm_js-node_modules_primer_react_lib-es-541a38-2ad77ede4dad.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-a2fe8fc7236e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Box_Box_js-5a335cbe71ad.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_Button_js-618154c88198.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_IconButton_js-node_modules_primer_react_lib--1cd808-d9a0e71b26f4.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_FeatureFlags_FeatureFlags_js-node_modules_github_ca-9009bd-47065f21e9ac.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-334106258bdb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-98aea6945770.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_node_modules_primer_octicons-react_dist_index_esm_mjs-dc98a76c65d6.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_scroll-anchoring_dist_scroll-anchoring_esm_js-node_modules_github_hotkey-1a1d91-1bb71f3f93c2.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_smoothscroll-polyfill_dist_smoothscroll_js-node_modules_stacktrace-parse-a448e4-f17a27f30529.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-da9f182c8c56.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_smoothscroll-polyfill_dist_smoothscroll_js-node_modules_stacktrace-parse-a448e4-bdc28e06dc01.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-391370f65f34.js"></script>
 <script type="application/json" data-target="react-partial.embeddedData">{"props":{"docsUrl":"https://docs.github.com/get-started/accessibility/keyboard-shortcuts"}}</script>
 <script type="application/json" id="client-env">{"locale":"en","featureFlags":["code_vulnerability_scanning","copilot_chat_static_thread_suggestions","copilot_conversational_ux_history_refs","copilot_followup_to_agent","copilot_smell_icebreaker_ux","copilot_implicit_context","copilot_stop_response","copilot_updated_function_buttons","failbot_handle_non_errors","geojson_azure_maps","image_metric_tracking","marketing_forms_api_integration_contact_request","marketing_pages_search_explore_provider","turbo_experiment_risky","sample_network_conn_type","no_character_key_shortcuts_in_inputs","react_start_transition_for_navigations","custom_inp","remove_child_patch","kb_source_repos"]}</script>
 <scrollable-region data-labelled-by="custom-scopes-dialog-title">
