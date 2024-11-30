@@ -191,7 +191,8 @@ C:/Windows/System32/inetsrv/config/applicationHost.config
 C:/Windows/System32/inetsrv/config/schema/ASPNET_schema.xml
 C:/Windows/debug/NetSetup.log
 C:/Windows/repair/security
-C:/Windows/repair/system C:/Windows/repair/software
+C:/Windows/repair/software
+C:/Windows/repair/system
 C:/Windows/system32/config/AppEvent.Evt
 C:/Windows/system32/config/SecEvent.Evt
 C:/Windows/system32/config/default.sav
