@@ -722,6 +722,7 @@
 /etc/apache/default-server.conf
 /etc/apache/httpd.conf
 /etc/apache2.conf
+/etc/apache2/.htpasswd
 /etc/apache2/apache.conf
 /etc/apache2/apache2.conf
 /etc/apache2/conf.d/charset
