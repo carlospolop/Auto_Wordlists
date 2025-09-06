@@ -475,7 +475,6 @@
 ../users.db.php
 ../var/log/httpd-access.log
 ../var/log/httpd-access.log%00
-../web.config
 ..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
 ..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
 ..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fshadow%00
@@ -560,7 +559,6 @@
 ..\..\..\..\..\..\..\..\..\..\etc\shadow
 ..\..\..\..\..\..\..\..\..\..\etc\shadow%00
 ..\..\..\..\..\..\..\..\windows\win.ini
-..\web.config
 .\\./.\\./.\\./.\\./.\\./.\\./etc/passwd
 .\\./.\\./.\\./.\\./.\\./.\\./etc/shadow
 .htpasswd
@@ -722,7 +720,6 @@
 /etc/apache/default-server.conf
 /etc/apache/httpd.conf
 /etc/apache2.conf
-/etc/apache2/.htpasswd
 /etc/apache2/apache.conf
 /etc/apache2/apache2.conf
 /etc/apache2/conf.d/charset
@@ -2084,7 +2081,6 @@
 /var/www/squirrelmail/config/config.php
 /var/www/vhosts/sitename/httpdocs/.htaccess
 /var/www/web1/html/.htaccess
-/web.config
 /web/conf/php.ini
 /web/conf/php.ini%00
 /www/apache/conf/httpd.conf
@@ -2208,7 +2204,6 @@ ZXRjL3NoYWRvdyUwMA==
 \opt\xampp\logs\access_log
 \opt\xampp\logs\error.log
 \opt\xampp\logs\error_log
-\web.config
 \xampp\FileZillaFTP\FileZilla Server.xml
 \xampp\FileZillaFTP\Logs
 \xampp\FileZillaFTP\Logs\access.log
@@ -2270,7 +2265,6 @@ root/.htpasswd
 user/.htpasswd
 users.db.php
 users/.htpasswd
-web.config
 ~/.Xdefaults
 ~/.Xresources
 ~/.atfp_history
@@ -2288,8 +2282,6 @@ web.config
 ~/.ssh/authorized_keys
 ~/.ssh/id_dsa
 ~/.ssh/id_dsa.pub
-~/.ssh/id_ecdsa
-~/.ssh/id_ecdsa.pub
 ~/.ssh/id_rsa
 ~/.ssh/id_rsa.pub
 ~/.ssh/identity
