@@ -59,7 +59,7 @@ def check_domain(data):
 
 def get_dork_description(url_path):
     url = f"https://www.exploit-db.com{url_path}"
-    response = requests.get(url, headers=headers, verify=True)
+    response = requests.get(url, headers=headers, verify=True, timeout=10.0)
     soup = BeautifulSoup(response.content, "html.parser")
     meta = soup.find_all('meta')
     for tag in meta:
@@ -86,7 +86,7 @@ def retrieve_google_dorks(json_path, save_individual_categories):
 
     url = "https://www.exploit-db.com/google-hacking-database"
 
-    response = requests.get(url, headers=headers, verify=True)
+    response = requests.get(url, headers=headers, verify=True, timeout=10.0)
 
     if response.status_code != 200:
         print(f"[-] Error retrieving google dorks from: {url}")
