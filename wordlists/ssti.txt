@@ -65,7 +65,6 @@ ${self.template.module.runtime.util.compat.inspect.os.system("id")}
 ${self.template.module.runtime.util.os.system("id")}
 ${{7*7}}
 ${{<%[%'"}}%\
-404: Not Found
 42*42
 <#assign ex = "freemarker.template.utility.Execute"?new()>${ ex("id")}
 <%= 7 * 7 %>

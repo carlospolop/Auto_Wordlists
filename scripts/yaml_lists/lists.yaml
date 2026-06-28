@@ -17,13 +17,13 @@ lists:
     
     urls:
     - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/LFI/LFI-LFISuite-pathtotest.txt"
-    - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/LFI/LFI-gracefulsecurity-linux.txt"
+    - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/LFI/Linux/LFI-gracefulsecurity-linux.txt"
     - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/LFI/LFI-Jhaddix.txt"
     - "https://github.com/1N3/IntruderPayloads/raw/master/FuzzLists/lfi.txt"
     
   file_inclusion_windows:
     urls:
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/LFI/LFI-gracefulsecurity-windows.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/LFI/Windows/Windows-Paths.txt"
       - "https://github.com/soffensive/windowsblindread/raw/master/windows-files.txt"
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/Directory%20Traversal/Intruder/directory_traversal.txt"
 
@@ -39,7 +39,6 @@ lists:
     urls:
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/Server%20Side%20Template%20Injection/Intruder/ssti.fuzz"
       - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/template-engines-expression.txt"
-      - "https://raw.githubusercontent.com/payloadbox/ssti-payloads/master/Intruder/ssti-payloads.txt"
 
   xslt:
     urls: []
@@ -47,11 +46,11 @@ lists:
   xss_polyglots:
     urls:
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/XSS%20Injection/Intruders/XSS_Polyglots.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/Polyglots/XSS-Polyglot-Ultimate-0xsobky.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/Polyglots/XSS-Polyglots-Dmiessler.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/Polyglots/XSS-Polyglots.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/Polyglots/XSS-innerht-ml.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS-Fuzzing"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/Polyglots/XSS-Polyglot-Ultimate-0xsobky.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/Polyglots/XSS-Polyglots-Dmiessler.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/Polyglots/XSS-Polyglots.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/Polyglots/XSS-innerht-ml.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/robot-friendly/XSS-Fuzzing.txt"
   
   xss:
     urls:
@@ -59,20 +58,20 @@ lists:
       - "https://github.com/1N3/IntruderPayloads/raw/master/FuzzLists/xss_find_inject.txt"
       - "https://github.com/1N3/IntruderPayloads/raw/master/FuzzLists/xss_payloads_quick.txt"
       - "https://github.com/1N3/IntruderPayloads/raw/master/FuzzLists/xss_remote_payloads-https.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS/XSS-BruteLogic.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS/XSS-Jhaddix.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS/XSS-RSNAKE.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS/XSS-Somdev.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS/xss-without-parentheses-semi-colons-portswigger.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS/XSS-OFJAAAH.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/robot-friendly/XSS-BruteLogic.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/robot-friendly/XSS-Jhaddix.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/robot-friendly/XSS-RSNAKE.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/robot-friendly/XSS-Somdev.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/robot-friendly/xss-without-parentheses-semi-colons-portswigger.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/robot-friendly/XSS-OFJAAAH.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/robot-friendly/XSS-payloadbox.txt"
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/XSS%20Injection/Intruders/IntrudersXSS.txt"
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/XSS%20Injection/Intruders/xss_alert.txt"
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/XSS%20Injection/Intruders/xss_payloads_quick.txt"
-      - "https://raw.githubusercontent.com/payloadbox/xss-payload-list/master/Intruder/xss-payload-list.txt"
   
   xss_portswigger:
     urls:
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/XSS/XSS-Cheat-Sheet-PortSwigger.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/XSS/robot-friendly/XSS-Cheat-Sheet-PortSwigger.txt"
 
   xxe:
     urls:
@@ -85,23 +84,104 @@ lists:
   sqli:
     urls:
       - "https://github.com/1N3/IntruderPayloads/raw/master/FuzzLists/sqli_escape_chars.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/Polyglots/SQLi-Polyglots.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/SQLi/Generic-BlindSQLi.fuzzdb.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Fuzzing/SQLi/Generic-SQLi.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/Databases/SQLi/SQLi-Polyglots.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/Databases/SQLi/Generic-BlindSQLi.fuzzdb.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/Databases/SQLi/Generic-SQLi.txt"
       - "https://github.com/1N3/IntruderPayloads/raw/master/FuzzLists/sqli-time-based.txt"
       - "https://github.com/1N3/IntruderPayloads/raw/master/FuzzLists/sqli-union-select.txt"
       - "https://github.com/1N3/IntruderPayloads/raw/master/FuzzLists/sqli-error-based.txt"
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/SQL%20Injection/Intruder/SQL-Injection"
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/SQL%20Injection/Intruder/FUZZDB_MSSQL-WHERE_Time.txt"
       - "https://github.com/swisskyrepo/PayloadsAllTheThings/raw/master/SQL%20Injection/Intruder/FUZZDB_MySQL-WHERE_Time.txt"
-      - "https://raw.githubusercontent.com/payloadbox/sql-injection-payload-list/master/Intruder/detect/Generic_ErrorBased.txt"
-      - "https://raw.githubusercontent.com/payloadbox/sql-injection-payload-list/master/Intruder/detect/Generic_TimeBased.txt"
-      - "https://raw.githubusercontent.com/payloadbox/sql-injection-payload-list/master/Intruder/detect/Generic_SQLI.txt"
-      - "https://raw.githubusercontent.com/payloadbox/sql-injection-payload-list/master/Intruder/detect/GenericBlind.txt"
 
   bf_directories:
     urls:
-      - "https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/RobotsDisallowed-Top1000.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/raft-large-directories.txt"
-      - "https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/directory-list-2.3-medium.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/raft-large-directories.txt"
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/DirBuster-2007_directory-list-2.3-medium.txt"
       - "https://github.com/maurosoria/dirsearch/raw/master/db/dicc.txt"
+
+  dns_subdomains_standard:
+    lowercase: true
+    remove_comments: true
+    max_length: 63
+    allow_regex:
+      - "^[a-z0-9][a-z0-9-]*$"
+    urls:
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/DNS/subdomains-top1million-110000.txt"
+
+  http_api_routes_core:
+    lowercase: true
+    remove_comments: true
+    min_length: 2
+    max_length: 120
+    allow_regex:
+      - "^[a-z0-9_][a-z0-9._~/-]*$"
+    deny_regex:
+      - "[()&?:=]"
+      - "\\s"
+      - "^https?://"
+    urls:
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/api/api-endpoints-res.txt"
+
+  http_api_routes_realworld:
+    lowercase: true
+    remove_comments: true
+    max_length: 180
+    deny_regex:
+      - "\\s"
+      - "^https?://"
+      - "[?#]"
+      - "^[^a-z0-9]*$"
+    urls: []
+    dynamic_urls:
+      - type: assetnote_automated
+        prefix: "httparchive_apiroutes_"
+
+  http_dirs_realworld:
+    lowercase: true
+    remove_comments: true
+    max_length: 160
+    deny_regex:
+      - "\\s"
+      - "^https?://"
+      - "[?#]"
+      - "^[^a-z0-9]*$"
+    urls: []
+    dynamic_urls:
+      - type: assetnote_automated
+        prefix: "httparchive_directories_1m_"
+
+  http_headers_hidden:
+    lowercase: true
+    remove_comments: true
+    max_length: 100
+    allow_regex:
+      - "^[a-z0-9][a-z0-9-]*$"
+    urls:
+      - "https://raw.githubusercontent.com/PortSwigger/param-miner/master/resources/headers"
+
+  http_params_realworld:
+    lowercase: true
+    remove_comments: true
+    min_length: 2
+    max_length: 100
+    allow_regex:
+      - "^[a-z0-9_][a-z0-9_.:\\[\\]-]*$"
+    deny_regex:
+      - "%[a-z]"
+      - "\\s"
+      - "^https?://"
+      - "[/?#=]"
+    urls: []
+    dynamic_urls:
+      - type: assetnote_automated
+        prefix: "httparchive_parameters_top_1m_"
+
+  usernames_default:
+    lowercase: true
+    remove_comments: true
+    max_length: 64
+    deny_regex:
+      - "\\s"
+    urls:
+      - "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Usernames/cirt-default-usernames.txt"
