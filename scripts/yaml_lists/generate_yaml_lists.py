@@ -8,7 +8,7 @@ FINAL_WL_DIR = f"{CURRENT_DIR}/../../wordlists"
 ERRORS = []
 
 with open(f"{CURRENT_DIR}/lists.yaml", 'r') as file:
-    yaml_loaded = yaml.load(file, Loader=yaml.FullLoader)
+    yaml_loaded = yaml.safe_load(file, Loader=yaml.FullLoader)
 
 for wl_name,entry in yaml_loaded["lists"].items():
     urls = entry["urls"]
@@ -18,7 +18,7 @@ for wl_name,entry in yaml_loaded["lists"].items():
         try:
             if not url:
                 continue
-            r = requests.get(url)
+            r = requests.get(url, timeout=10.0)
             for line in r.text.splitlines():
                 line = line.strip()
                 if not any(ni in line for ni in not_includes) and line:
