@@ -1,0 +1,3 @@
+http_api_routes_realworld https://wordlists-cdn.assetnote.io/data/automated/httparchive_apiroutes_2026_02_27.txt: 522 Server Error: <none> for url: https://wordlists-cdn.assetnote.io/data/automated/httparchive_apiroutes_2026_02_27.txt
+http_dirs_realworld https://wordlists-cdn.assetnote.io/data/automated/httparchive_directories_1m_2026_02_27.txt: 522 Server Error: <none> for url: https://wordlists-cdn.assetnote.io/data/automated/httparchive_directories_1m_2026_02_27.txt
+http_params_realworld https://wordlists-cdn.assetnote.io/data/automated/httparchive_parameters_top_1m_2026_02_27.txt: 522 Server Error: <none> for url: https://wordlists-cdn.assetnote.io/data/automated/httparchive_parameters_top_1m_2026_02_27.txt
